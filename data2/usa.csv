@@ -1,0 +1,898 @@
+NCTId,LeadSponsorName,CollaboratorName,DesignPrimaryPurpose,Phase,EnrollmentCount,CompletionDate,LocationCountry,LocationStatus
+NCT04321369,Dr. Deneen Vojta,Quest Diagnostics,Generic,Unknown,533,2020-03-23,United States,Unknown
+NCT04327804,Dr. Deneen Vojta,PATH,Generic,Unknown,120,2020-04-10,United States,Recruiting
+NCT04339387,Brigham and Women's Hospital,Not Applicable,Generic,Unknown,1500,2020-04-15,United States,Recruiting
+NCT04358536,Dascena,Not Applicable,Generic,Unknown,230,2020-04-17,United States,Unknown
+NCT04358510,Dascena,Not Applicable,Generic,Unknown,114,2020-04-17,United States,Unknown
+NCT04373161,Swedish Hospital,Not Applicable,Diagnostic,Unknown,209,2020-04-22,United States,Unknown
+NCT04374071,Henry Ford Health System,Not Applicable,Generic,Unknown,250,2020-04-30,United States,Unknown
+NCT04342637,Al-Azhar University,Not Applicable,Generic,Unknown,163,2020-05-01,United States,Unknown
+NCT04407260,Northwell Health,Not Applicable,Generic,Unknown,136,2020-05-01,United States,Unknown
+NCT04343690,Duke University,Not Applicable,Other,Unknown,0,2020-05-01,United States,Unknown
+NCT04344236,NYU Langone Health,Not Applicable,Treatment,Phase 2,48,2020-05-09,United States,Recruiting
+NCT04440098,University of Miami,Not Applicable,Generic,Unknown,1008,2020-05-11,United States,Unknown
+NCT04308668,University of Minnesota,McGill University Health Centre/Research Institute of the McGill University Health Centre,Treatment,Phase 3,1309,2020-05-20,United States,Unknown
+NCT04548544,"University of California, San Francisco",Not Applicable,Basic Science,Unknown,21,2020-05-20,United States,Unknown
+NCT04280705,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Treatment,Phase 3,1062,2020-05-21,United States,Unknown
+NCT04371419,"National Bureau of Economic Research, Inc.",Massachusetts General Hospital,Prevention,Unknown,15475,2020-05-24,United States,Unknown
+NCT04389567,Northwell Health,Cold Spring Harbor Laboratory,Generic,Unknown,10,2020-05-25,United States,Unknown
+NCT04411056,The Guthrie Clinic,Not Applicable,Other,Unknown,78,2020-05-25,United States,Unknown
+NCT04333654,Sanofi,Not Applicable,Treatment,Phase 1,8,2020-05-26,United States,Unknown
+NCT04372472,"Cytovale, Inc.",Biomedical Advanced Research and Development Authority,Generic,Unknown,300,2020-05-29,United States,Unknown
+NCT04332081,NYU Langone Health,Not Applicable,Treatment,Unknown,20,2020-05-29,United States,Unknown
+NCT04390516,Dascena,Not Applicable,Diagnostic,Unknown,197,2020-05-30,United States,Unknown
+NCT04461769,Brain Electrophysiology Laboratory Company,Not Applicable,Treatment,Early Phase 1,13,2020-05-30,United States,Unknown
+NCT04419064,University of Pittsburgh,Kadlec Regional Medical Center,Generic,Unknown,118,2020-05-30,United States,Unknown
+NCT04394104,"Rutgers, The State University of New Jersey",Not Applicable,Generic,Unknown,1000,2020-05-31,United States,Unknown
+NCT04445506,The Miriam Hospital,Not Applicable,Generic,Unknown,50,2020-05-31,United States,Unknown
+NCT04329897,University of Iowa,Not Applicable,Supportive Care,Unknown,90,2020-06-01,United States,Unknown
+NCT04351620,University of Chicago,Not Applicable,Treatment,Phase 1,20,2020-06-01,United States,Recruiting
+NCT04343183,Ochsner Health System,Not Applicable,Treatment,Unknown,48,2020-06-01,United States,Unknown
+NCT04361552,Emory University,National Cancer Institute (NCI),Treatment,Phase 3,0,2020-06-02,United States,Unknown
+NCT04423991,Dascena,Not Applicable,Diagnostic,Unknown,290,2020-06-04,United States,Unknown
+NCT04331795,University of Chicago,Not Applicable,Treatment,Phase 2,32,2020-06-05,United States,Unknown
+NCT04363437,Maimonides Medical Center,Not Applicable,Treatment,Phase 2,70,2020-06-14,United States,Recruiting
+NCT04395391,Exact Sciences Corporation,Not Applicable,Generic,Unknown,30,2020-06-16,United States,Unknown
+NCT03983733,Zoe Global Limited,Massachusetts General Hospital,Basic Science,Unknown,1139,2020-06-19,United States,Unknown
+NCT04385238,Pregistry,Harvard School of Public Health,Generic,Unknown,7000,2020-06-20,United States,Unknown
+NCT04335552,Duke University,Not Applicable,Treatment,Phase 2,11,2020-06-26,United States,Unknown
+NCT04292730,Gilead Sciences,Not Applicable,Treatment,Phase 3,1113,2020-06-26,United States,Unknown
+NCT04292899,Gilead Sciences,Not Applicable,Treatment,Phase 3,4891,2020-06-30,United States,Unknown
+NCT04492943,Massachusetts General Hospital,Not Applicable,Generic,Unknown,35,2020-06-30,United States,Unknown
+NCT04387786,Feinstein Institute for Medical Research,Cold Spring Harbor Laboratory,Generic,Unknown,5,2020-07-01,United States,Unknown
+NCT04397900,"TScan Therapeutics, Inc.",Not Applicable,Generic,Unknown,80,2020-07-01,United States,Recruiting
+NCT04343989,NYU Langone Health,Not Applicable,Treatment,Phase 2,90,2020-07-01,United States,Recruiting
+NCT04385147,Al-Azhar University,Helwan University,Generic,Unknown,670,2020-07-05,United States,Unknown
+NCT04358068,National Institute of Allergy and Infectious Diseases (NIAID),Teva Pharmaceuticals Industries LTD,Treatment,Phase 2,20,2020-07-07,United States,Unknown
+NCT04353271,University of South Alabama,Not Applicable,Treatment,Phase 2,58,2020-07-08,United States,Unknown
+NCT04360954,Washington University School of Medicine,Not Applicable,Generic,Unknown,461,2020-07-08,United States,Unknown
+NCT04460703,Yale University,Not Applicable,Other,Unknown,4000,2020-07-08,United States,Unknown
+NCT04377581,Milton S. Hershey Medical Center,The Huck Institutes of the Life Sciences,Generic,Unknown,18251,2020-07-10,United States,Unknown
+NCT04391712,Lowell General Hospital,Not Applicable,Treatment,Phase 2,10,2020-07-16,United States,Unknown
+NCT04418947,University of Pennsylvania,Not Applicable,Other,Unknown,11120,2020-07-17,United States,Unknown
+NCT04332991,Massachusetts General Hospital,"National Heart, Lung, and Blood Institute (NHLBI)",Treatment,Phase 3,479,2020-07-23,United States,Unknown
+NCT04358081,Novartis Pharmaceuticals,Not Applicable,Treatment,Phase 3,20,2020-07-27,United States,Unknown
+NCT04320615,Hoffmann-La Roche,Not Applicable,Treatment,Phase 3,450,2020-07-28,United States,Unknown
+NCT04459520,"University of California, Los Angeles",Not Applicable,Screening,Unknown,1400,2020-07-29,United States,Unknown
+NCT04441632,Cedars-Sinai Medical Center,Not Applicable,Treatment,Unknown,24,2020-07-30,United States,Unknown
+NCT04333225,Baylor Research Institute,Not Applicable,Prevention,Phase 2,228,2020-07-30,United States,Unknown
+NCT04329533,University of Arizona,Not Applicable,Supportive Care,Unknown,150,2020-07-30,United States,Recruiting
+NCT04383587,Mayo Clinic,Not Applicable,Health Services Research,Unknown,300,2020-07-31,United States,Unknown
+NCT04452695,Brigham and Women's Hospital,Not Applicable,Generic,Unknown,50,2020-07-31,United States,Recruiting
+NCT04368260,University of Virginia,Not Applicable,Other,Unknown,40,2020-07-31,United States,Recruiting
+NCT04392323,Northwell Health,Not Applicable,Diagnostic,Unknown,500,2020-07-31,United States,Recruiting
+NCT04467931,University of Utah,VA Salt Lake City Health Care System,Generic,Unknown,10000,2020-07-31,United States,Unknown
+NCT04350450,Montefiore Medical Center,Not Applicable,Treatment,Phase 2,0,2020-08-01,United States,Unknown
+NCT04328467,University of Minnesota,Not Applicable,Treatment,Phase 3,1500,2020-08-01,United States,Unknown
+NCT04371640,Walter K. Kraft,Not Applicable,Treatment,Phase 1,40,2020-08-01,United States,Recruiting
+NCT04331366,Emory University,Not Applicable,Supportive Care,Unknown,5,2020-08-01,United States,Recruiting
+NCT04415879,The Cleveland Clinic,Not Applicable,Health Services Research,Unknown,20,2020-08-01,United States,Unknown
+NCT04381052,Columbia University,NYU Langone Health,Treatment,Phase 2,30,2020-08-01,United States,Unknown
+NCT04355897,The Christ Hospital,Not Applicable,Treatment,Early Phase 1,100,2020-08-01,United States,Recruiting
+NCT04385199,Henry Ford Health System,Not Applicable,Treatment,Phase 2,30,2020-08-01,United States,Recruiting
+NCT04378803,University of Miami,Not Applicable,Supportive Care,Unknown,53,2020-08-04,United States,Unknown
+NCT04363736,Hoffmann-La Roche,Not Applicable,Treatment,Phase 2,100,2020-08-12,United States,Unknown
+NCT04343261,Saint Francis Care,Not Applicable,Treatment,Phase 2,48,2020-08-13,United States,Unknown
+NCT04401527,Hope Pharmaceuticals,Not Applicable,Treatment,Phase 2,0,2020-08-15,United States,Unknown
+NCT04421664,McGill University Health Centre/Research Institute of the McGill University Health Centre,University of Manitoba,Treatment,Phase 3,70,2020-08-17,United States,Unknown
+NCT04461353,"Pulmoquine Therapeutics, Inc",Rockefeller University,Treatment,Phase 1,12,2020-08-17,United States,Unknown
+NCT04352946,GeoSentinel Foundation,Not Applicable,Prevention,Phase 3,374,2020-08-24,United States,Unknown
+NCT04466644,Igenomix,Not Applicable,Generic,Unknown,340,2020-08-25,United States,Unknown
+NCT04411628,Eli Lilly and Company,AbCellera Biologics Inc.,Basic Science,Phase 1,24,2020-08-26,United States,Unknown
+NCT04393961,ProofPilot,Radish Health,Device Feasibility,Unknown,600,2020-08-29,United States,Recruiting
+NCT04326426,Vanda Pharmaceuticals,Not Applicable,Treatment,Phase 3,300,2020-08-31,United States,Unknown
+NCT04361838,Kansas City Heart Rhythm Institute,Not Applicable,Supportive Care,Unknown,1000,2020-08-31,United States,Recruiting
+NCT04460027,Athena Robinson,Stanford University,Treatment,Phase 1,160,2020-08-31,United States,Recruiting
+NCT04349098,Karyopharm Therapeutics Inc,Not Applicable,Treatment,Phase 2,230,2020-08-31,United States,Recruiting
+NCT04343651,"CytoDyn, Inc.",Not Applicable,Treatment,Phase 2,86,2020-08-31,United States,Unknown
+NCT04341675,University of Cincinnati,Not Applicable,Treatment,Phase 2,30,2020-09-01,United States,"Active, not recruiting"
+NCT04486144,HealthQuilt,The Schull Institute,Treatment,Unknown,100,2020-09-01,United States,Unknown
+NCT04341116,I-Mab Biopharma Co. Ltd.,Not Applicable,Treatment,Phase 1,144,2020-09-01,United States,Recruiting
+NCT04311697,"NeuroRx, Inc.","Lavin Consulting, LLC",Treatment,Phase 2,144,2020-09-01,United States,Recruiting
+NCT04376515,"University of California, Irvine",Not Applicable,Supportive Care,Unknown,300,2020-09-01,United States,Unknown
+NCT04351152,"Humanigen, Inc.",Not Applicable,Treatment,Phase 3,300,2020-09-01,United States,Recruiting
+NCT04361214,University of Chicago,Not Applicable,Treatment,Phase 1,20,2020-09-01,United States,Recruiting
+NCT04573270,Thomas Advanced Medical LLC,HeartStem Institute,Treatment,Phase 1,40,2020-09-01,United States,Unknown
+NCT04385160,Fondazione per la Ricerca Ospedale Maggiore,European Leukemia Net,Generic,Unknown,80,2020-09-01,United States,Not yet recruiting
+NCT04315298,Regeneron Pharmaceuticals,Sanofi,Treatment,Phase 2,1912,2020-09-02,United States,Unknown
+NCT04571593,National University of Natural Medicine,Not Applicable,Basic Science,Unknown,74,2020-09-14,United States,Unknown
+NCT04349410,The Camelot Foundation,Not Applicable,Treatment,Phase 2,1800,2020-09-14,United States,Unknown
+NCT04459455,Stony Brook University,Not Applicable,Treatment,Unknown,500,2020-09-15,United States,Recruiting
+NCT04359277,NYU Langone Health,Not Applicable,Treatment,Phase 3,77,2020-09-20,United States,Unknown
+NCT04475718,HealthCore-NERI,"Orange Square Design, Inc.",Supportive Care,Unknown,85,2020-09-22,United States,Recruiting
+NCT04568356,"E25Bio, Inc.","SCRI Development Innovations, LLC",Diagnostic,Unknown,200,2020-09-24,United States,Unknown
+NCT04379492,Memorial Sloan Kettering Cancer Center,Not Applicable,Treatment,Phase 2,0,2020-09-25,United States,Unknown
+NCT04497948,AstraZeneca,Acerta Pharma B.V.,Treatment,Phase 1,20,2020-09-28,United States,Unknown
+NCT03175796,University of Michigan,Michigan Department of Health and Human Services,Treatment,Unknown,148,2020-09-29,United States,Unknown
+NCT04377620,Incyte Corporation,Not Applicable,Treatment,Phase 3,500,2020-09-29,United States,Recruiting
+NCT04532411,Massachusetts General Hospital,Not Applicable,Generic,Unknown,25000,2020-09-30,United States,Unknown
+NCT04344457,"Perseverance Research Center, LLC",Athena Medical Group,Treatment,Phase 1,80,2020-09-30,United States,Recruiting
+NCT04547283,Atrium Health,Not Applicable,Treatment,Unknown,40,2020-09-30,United States,Recruiting
+NCT04525443,"Hospital San Carlos, Madrid",Mayo Clinic,Generic,Unknown,100,2020-09-30,United States,"Active, not recruiting"
+NCT04468386,Biomerica,Not Applicable,Generic,Unknown,40,2020-09-30,United States,Unknown
+NCT04379375,Medical College of Wisconsin,Advancing a Healthier Wisconsin Endowment,Prevention,Unknown,45,2020-09-30,United States,Unknown
+NCT04397692,Beyond Air Ltd,Not Applicable,Device Feasibility,Unknown,20,2020-09-30,United States,Recruiting
+NCT04354870,NYU Langone Health,Not Applicable,Treatment,Phase 2,130,2020-10-01,United States,Unknown
+NCT04356937,Massachusetts General Hospital,"Genentech, Inc.",Treatment,Phase 3,243,2020-10-01,United States,Unknown
+NCT04409327,Restorbio Inc.,Not Applicable,Prevention,Phase 3,550,2020-10-01,United States,Recruiting
+NCT04441996,Emory University,Not Applicable,Treatment,Phase 4,20,2020-10-01,United States,Unknown
+NCT04435184,Johns Hopkins University,Novartis,Treatment,Phase 2,40,2020-10-01,United States,Recruiting
+NCT04339998,University of Minnesota,Not Applicable,Generic,Unknown,500,2020-10-01,United States,Recruiting
+NCT04342663,Washington University School of Medicine,Not Applicable,Treatment,Phase 2,152,2020-10-01,United States,Unknown
+NCT04374786,University of Arizona,Not Applicable,Supportive Care,Unknown,328,2020-10-01,United States,Unknown
+NCT04431908,Yale University,Not Applicable,Generic,Unknown,250,2020-10-01,United States,Recruiting
+NCT04581161,Hill-Rom,Not Applicable,Treatment,Unknown,10,2020-10-01,United States,Recruiting
+NCT04334148,Adrian Hernandez,Patient-Centered Outcomes Research Institute,Prevention,Phase 3,2000,2020-10-01,United States,Recruiting
+NCT04453514,National University of Natural Medicine,Not Applicable,Supportive Care,Unknown,200,2020-10-01,United States,Recruiting
+NCT04335123,University of Kansas Medical Center,Not Applicable,Treatment,Phase 1,50,2020-10-01,United States,Recruiting
+NCT04333953,University of Missouri-Columbia,Not Applicable,Generic,Unknown,500,2020-10-01,United States,Recruiting
+NCT04357782,Hunter Holmes Mcguire Veteran Affairs Medical Center,McGuire Research Institute,Treatment,Phase 1,20,2020-10-15,United States,Unknown
+NCT04439825,DeNova Research,Not Applicable,Treatment,Phase 1,45,2020-10-15,United States,Unknown
+NCT04412252,Pfizer,Not Applicable,Treatment,Phase 2,0,2020-10-18,United States,Unknown
+NCT04362137,Novartis Pharmaceuticals,Incyte Corporation,Treatment,Phase 3,402,2020-10-19,United States,"Active, not recruiting"
+NCT04366791,Emory University,Not Applicable,Treatment,Phase 1,10,2020-10-23,United States,Recruiting
+NCT04484207,"Research Foundation for Mental Hygiene, Inc.",Not Applicable,Health Services Research,Unknown,200,2020-10-26,United States,Recruiting
+NCT04370938,University of Pittsburgh,Not Applicable,Other,Unknown,250,2020-10-29,United States,Recruiting
+NCT04389294,"Hospital for Special Surgery, New York",Not Applicable,Health Services Research,Unknown,300,2020-10-30,United States,Recruiting
+NCT04522830,"Beech Tree Labs, Inc.",Norwich Clinical Research Associates Ltd.,Treatment,Phase 2,40,2020-10-30,United States,Recruiting
+NCT04328961,University of Washington,Bill and Melinda Gates Foundation,Prevention,Phase 2,829,2020-10-31,United States,Unknown
+NCT04412668,"aTyr Pharma, Inc.",Not Applicable,Treatment,Phase 2,30,2020-10-31,United States,Recruiting
+NCT04377412,"Żelazna Medical Centre, LLC","University of Medicine, Tirana",Generic,Unknown,8500,2020-10-31,United States,Recruiting
+NCT04417270,Northwell Health,Not Applicable,Other,Unknown,50,2020-10-31,United States,Recruiting
+NCT04362189,Hope Biosciences,Advanced Diagnostics Healthcare,Treatment,Phase 2,100,2020-10-31,United States,Unknown
+NCT04490239,Joshua Sharp,Not Applicable,Prevention,Early Phase 1,6,2020-11-01,United States,Unknown
+NCT04313023,"Pulmotect, Inc.",Not Applicable,Prevention,Phase 2,200,2020-11-01,United States,Recruiting
+NCT04506268,University of Pennsylvania,Not Applicable,Screening,Unknown,1200,2020-11-01,United States,Unknown
+NCT04357730,Denver Health and Hospital Authority,"Genentech, Inc.",Treatment,Phase 2,60,2020-11-01,United States,Recruiting
+NCT04402060,"Apellis Pharmaceuticals, Inc.",Not Applicable,Treatment,Phase 1,66,2020-11-01,United States,Recruiting
+NCT04474496,University of Arkansas,Patient-Centered Outcomes Research Institute,Generic,Unknown,2000,2020-11-01,United States,Unknown
+NCT04412057,"Aevi Genomic Medicine, LLC, a Cerecor company",Not Applicable,Treatment,Phase 2,82,2020-11-01,United States,Recruiting
+NCT04470622,Heron Therapeutics,Not Applicable,Treatment,Phase 2,100,2020-11-01,United States,Recruiting
+NCT04358549,"Fujifilm Pharmaceuticals U.S.A., Inc.",Not Applicable,Treatment,Phase 2,50,2020-11-01,United States,Unknown
+NCT04511819,Fulcrum Therapeutics,Not Applicable,Treatment,Phase 3,410,2020-11-01,United States,Recruiting
+NCT04408183,"GeneOne Life Science, Inc.",Not Applicable,Prevention,Phase 2,225,2020-11-01,United States,Recruiting
+NCT04393948,Brigham and Women's Hospital,Not Applicable,Treatment,Unknown,48,2020-11-01,United States,Recruiting
+NCT04431856,University of Miami,Not Applicable,Prevention,Unknown,68,2020-11-07,United States,Recruiting
+NCT04421391,Therapeutic Solutions International,Not Applicable,Treatment,Unknown,500,2020-11-08,United States,Recruiting
+NCT04336774,Duke University,"Caption Health, Inc.",Diagnostic,Unknown,0,2020-11-09,United States,Unknown
+NCT04458298,"Orpheris, Inc.",Not Applicable,Treatment,Phase 2,24,2020-11-10,United States,Recruiting
+NCT04456452,Ampio Pharmaceuticals. Inc.,Not Applicable,Treatment,Phase 1,10,2020-11-13,United States,Unknown
+NCT04448756,"EMD Serono Research & Development Institute, Inc.","Merck KGaA, Darmstadt, Germany",Treatment,Phase 2,150,2020-11-13,United States,Withdrawn
+NCT04415073,Syndax Pharmaceuticals,Not Applicable,Treatment,Phase 2,186,2020-11-15,United States,Unknown
+NCT04359329,Sharon Nachman,Not Applicable,Treatment,Phase 2,110,2020-11-15,United States,Recruiting
+NCT04405570,"Ridgeback Biotherapeutics, LP",Not Applicable,Treatment,Phase 2,108,2020-11-15,United States,Not yet recruiting
+NCT04380688,AstraZeneca,Acerta Pharma B.V.,Treatment,Phase 2,61,2020-11-19,United States,Unknown
+NCT03821402,"Revance Therapeutics, Inc.",Not Applicable,Treatment,Phase 2,128,2020-11-24,United States,Unknown
+NCT04405739,"Ridgeback Biotherapeutics, LP",Not Applicable,Treatment,Phase 2,89,2020-11-25,United States,Not yet recruiting
+NCT03348670,"Han Xu, M.D., Ph.D., Sponsor-Investigator, IRB Chair",Not Applicable,Treatment,Early Phase 1,20,2020-11-28,United States,Unknown
+NCT03305341,"Han Xu, M.D., Ph.D., Sponsor-Investigator, IRB Chair",Not Applicable,Treatment,Early Phase 1,20,2020-11-28,United States,Unknown
+NCT04490824,Institute of Progressive Medicine,Not Applicable,Treatment,Unknown,100,2020-11-30,United States,Recruiting
+NCT04411667,"George Sakoulas, MD",Octapharma,Treatment,Phase 4,40,2020-11-30,United States,Recruiting
+NCT04342897,Eli Lilly and Company,Not Applicable,Treatment,Phase 2,210,2020-11-30,United States,Unknown
+NCT04334460,Blade Therapeutics,Clinipace Worldwide,Treatment,Phase 2,120,2020-11-30,United States,Recruiting
+NCT04494867,Sharp HealthCare,"Advanced Cooling Therapy, Inc., d/b/a Attune Medical",Treatment,Unknown,20,2020-12-01,United States,Recruiting
+NCT04465552,Kansas City Heart Rhythm Research Foundation,Not Applicable,Generic,Unknown,750,2020-12-01,United States,Recruiting
+NCT04379544,University of Pennsylvania,Not Applicable,Generic,Unknown,105,2020-12-01,United States,Recruiting
+NCT04320472,Ictal Group,Not Applicable,Generic,Unknown,250,2020-12-01,United States,Recruiting
+NCT04363502,Johns Hopkins University,Not Applicable,Treatment,Phase 2,30,2020-12-01,United States,Recruiting
+NCT04539262,Gilead Sciences,Not Applicable,Treatment,Phase 1,282,2020-12-01,United States,Recruiting
+NCT04365257,Johns Hopkins University,Fast Grants,Treatment,Phase 2,220,2020-12-01,United States,Recruiting
+NCT04402814,"Fadi Haddad, M.D.",Not Applicable,Generic,Unknown,90,2020-12-01,United States,Recruiting
+NCT04350073,Duke University,Not Applicable,Generic,Unknown,120,2020-12-01,United States,Recruiting
+NCT04375761,National Institute of Allergy and Infectious Diseases (NIAID),"Rho Federal Systems Division, Inc. (Rho)",Generic,Unknown,5605,2020-12-01,United States,Unknown
+NCT04402840,West Virginia University,Not Applicable,Treatment,Unknown,5,2020-12-01,United States,Recruiting
+NCT04374149,Prisma Health-Upstate,Not Applicable,Treatment,Phase 2,20,2020-12-01,United States,Unknown
+NCT04511390,Brigham and Women's Hospital,Massachusetts General Hospital,Other,Unknown,100,2020-12-01,United States,Recruiting
+NCT04532112,University of Pennsylvania,Drexel University,Prevention,Unknown,150,2020-12-01,United States,Unknown
+NCT04291638,Florida International University,Not Applicable,Treatment,Unknown,11,2020-12-01,United States,Unknown
+NCT04350593,Saint Luke's Health System,AstraZeneca,Treatment,Phase 3,900,2020-12-01,United States,Recruiting
+NCT04412785,University of Pennsylvania,Not Applicable,Treatment,Phase 1,20,2020-12-01,United States,Recruiting
+NCT04477642,Beth Israel Deaconess Medical Center,Boston Children's Hospital,Treatment,Phase 1,0,2020-12-01,United States,Unknown
+NCT04445233,"University of North Carolina, Chapel Hill",North Carolina Translational and Clinical Sciences Institute,Generic,Unknown,400,2020-12-01,United States,Recruiting
+NCT04425538,Tufts Medical Center,National Institutes of Health (NIH),Treatment,Phase 2,17,2020-12-01,United States,Recruiting
+NCT04357977,"Kaligia Biosciences, LLC",University of South Florida,Generic,Unknown,300,2020-12-01,United States,Unknown
+NCT04572399,Cedars-Sinai Medical Center,"Aytu BioScience, Inc.",Treatment,Unknown,5,2020-12-01,United States,Recruiting
+NCT04317040,"OncoImmune, Inc.",Not Applicable,Treatment,Phase 3,241,2020-12-01,United States,Unknown
+NCT04353401,Vanda Pharmaceuticals,Not Applicable,Generic,Unknown,5000,2020-12-01,United States,Unknown
+NCT04409262,Hoffmann-La Roche,Gilead Sciences,Treatment,Phase 3,450,2020-12-01,United States,Recruiting
+NCT04312997,"Pulmotect, Inc.",Not Applicable,Treatment,Phase 2,100,2020-12-01,United States,Recruiting
+NCT04468958,"SAb Biotherapeutics, Inc.",Department of Health and Human Services,Treatment,Phase 1,28,2020-12-01,United States,Recruiting
+NCT04319445,Wake Forest University Health Sciences,Not Applicable,Other,Unknown,200,2020-12-01,United States,Recruiting
+NCT04418544,Soniphi LLC,UserWise,Generic,Unknown,400,2020-12-01,United States,Recruiting
+NCT04344587,Boston University,Not Applicable,Supportive Care,Unknown,560,2020-12-01,United States,Unknown
+NCT04414618,RedHill Biopharma Limited,Not Applicable,Treatment,Phase 2,40,2020-12-01,United States,Recruiting
+NCT04322682,Montreal Heart Institute,"National Heart, Lung, and Blood Institute (NHLBI)",Treatment,Phase 3,6000,2020-12-01,United States,Recruiting
+NCT04410354,"ViralClear Pharmaceuticals, Inc.",Not Applicable,Treatment,Phase 2,80,2020-12-01,United States,Recruiting
+NCT03793673,Children's Hospital Los Angeles,University of Southern California,Other,Unknown,80,2020-12-01,United States,Unknown
+NCT04409509,CSL Behring,Not Applicable,Treatment,Phase 2,124,2020-12-01,United States,Recruiting
+NCT04426344,Washington University School of Medicine,Not Applicable,Treatment,Unknown,20,2020-12-01,United States,Unknown
+NCT04424797,Poudre Valley Health System,Not Applicable,Treatment,Unknown,100,2020-12-01,United States,Recruiting
+NCT04324021,Swedish Orphan Biovitrum,Not Applicable,Treatment,Phase 2,54,2020-12-01,United States,Recruiting
+NCT04414124,Kaleido Biosciences,Not Applicable,Other,Unknown,400,2020-12-01,United States,Recruiting
+NCT04377711,Covis Pharma S.à.r.l.,Not Applicable,Treatment,Phase 3,400,2020-12-01,United States,Recruiting
+NCT04504032,Bill & Melinda Gates Medical Research Institute,Not Applicable,Treatment,Phase 2,600,2020-12-01,United States,Recruiting
+NCT04469179,"SAb Biotherapeutics, Inc.",Biomedical Advanced Research and Development Authority,Treatment,Phase 1,21,2020-12-01,United States,Recruiting
+NCT04391179,University of Michigan,Not Applicable,Treatment,Phase 2,80,2020-12-01,United States,Not yet recruiting
+NCT04421027,Eli Lilly and Company,Not Applicable,Treatment,Phase 3,600,2020-12-05,United States,Recruiting
+NCT04397718,VA Office of Research and Development,Not Applicable,Treatment,Phase 2,198,2020-12-06,United States,Recruiting
+NCT04429867,WellStar Health System,Not Applicable,Treatment,Phase 4,700,2020-12-07,United States,Unknown
+NCT04579393,"National Heart, Lung, and Blood Institute (NHLBI)",Not Applicable,Treatment,Phase 2,60,2020-12-15,United States,Recruiting
+NCT04558411,"Rutgers, The State University of New Jersey",Not Applicable,Prevention,Unknown,150,2020-12-15,United States,Recruiting
+NCT04433546,PhaseBio Pharmaceuticals Inc.,Not Applicable,Treatment,Phase 2,210,2020-12-18,United States,Recruiting
+NCT04388826,Veru Inc.,Not Applicable,Treatment,Phase 2,40,2020-12-18,United States,Recruiting
+NCT04425629,Regeneron Pharmaceuticals,Not Applicable,Treatment,Phase 1,2104,2020-12-19,United States,Recruiting
+NCT04488575,"Evelo Biosciences, Inc.",Not Applicable,Treatment,Phase 2,60,2020-12-21,United States,Recruiting
+NCT04376684,GlaxoSmithKline,Not Applicable,Treatment,Phase 2,800,2020-12-21,United States,Recruiting
+NCT04362813,Novartis Pharmaceuticals,Not Applicable,Treatment,Phase 3,451,2020-12-22,United States,Unknown
+NCT04533360,Kingman Regional Medical Center,Not Applicable,Generic,Unknown,3000,2020-12-28,United States,Recruiting
+NCT04517682,Ambry Genetics,The Saratoga Hospital,Generic,Unknown,300,2020-12-30,United States,Unknown
+NCT04382391,Allegheny Singer Research Institute (also known as Allegheny Health Network Research Institute),ElectroCore INC,Treatment,Unknown,20,2020-12-30,United States,Recruiting
+NCT04353531,Rush University Medical Center,Not Applicable,Generic,Unknown,80,2020-12-30,United States,Recruiting
+NCT04486313,Romark Laboratories L.C.,Not Applicable,Treatment,Phase 3,800,2020-12-30,United States,Recruiting
+NCT04400058,Octapharma,Not Applicable,Prevention,Phase 3,208,2020-12-30,United States,Recruiting
+NCT04338074,University of Alabama at Birmingham,Not Applicable,Treatment,Phase 2,100,2020-12-31,United States,Recruiting
+NCT04435457,University of Texas Southwestern Medical Center,Not Applicable,Generic,Unknown,70,2020-12-31,United States,Recruiting
+NCT04338009,University of Pennsylvania,"Jordana B. Cohen, MD, MSCE",Treatment,Unknown,152,2020-12-31,United States,Unknown
+NCT04498442,Beth Israel Deaconess Medical Center,Not Applicable,Other,Unknown,30000,2020-12-31,United States,Recruiting
+NCT04325906,Rush University Medical Center,Not Applicable,Treatment,Unknown,346,2020-12-31,United States,Recruiting
+NCT03376854,"University of Maryland, Baltimore",Not Applicable,Treatment,Phase 2,20,2020-12-31,United States,Recruiting
+NCT04422769,Washington University School of Medicine,Not Applicable,Generic,Unknown,250,2020-12-31,United States,Recruiting
+NCT04359680,Romark Laboratories L.C.,Not Applicable,Prevention,Phase 3,800,2020-12-31,United States,Recruiting
+NCT04340557,Sharp HealthCare,Not Applicable,Prevention,Phase 4,200,2020-12-31,United States,Recruiting
+NCT04356443,Massachusetts General Hospital,Not Applicable,Generic,Unknown,500,2020-12-31,United States,Recruiting
+NCT04476602,Northwell Health,Not Applicable,Generic,Unknown,500,2020-12-31,United States,Recruiting
+NCT04392232,TriHealth Inc.,Not Applicable,Treatment,Phase 2,100,2020-12-31,United States,Recruiting
+NCT04348656,Hamilton Health Sciences Corporation,Canadian Blood Services,Treatment,Phase 3,1200,2020-12-31,United States,Recruiting
+NCT04338126,University of Alabama at Birmingham,Not Applicable,Treatment,Phase 2,60,2020-12-31,United States,Unknown
+NCT04561102,"Illumina, Inc.",Helix,Generic,Unknown,2500,2020-12-31,United States,Unknown
+NCT04524598,"Limbix Health, Inc.",Not Applicable,Treatment,Unknown,410,2020-12-31,United States,Recruiting
+NCT04349631,Hope Biosciences,Not Applicable,Prevention,Phase 2,56,2020-12-31,United States,Unknown
+NCT04355728,Camillo Ricordi,Not Applicable,Treatment,Phase 1,24,2020-12-31,United States,Unknown
+NCT04438967,Miro Health,Johns Hopkins University,Generic,Unknown,10000,2020-12-31,United States,Recruiting
+NCT04343248,Romark Laboratories L.C.,Not Applicable,Prevention,Phase 3,800,2020-12-31,United States,Recruiting
+NCT04384445,Organicell Regenerative Medicine,Not Applicable,Treatment,Phase 1,20,2020-12-31,United States,Recruiting
+NCT04557046,LumiraDx UK Limited,Not Applicable,Diagnostic,Unknown,400,2020-12-31,United States,Recruiting
+NCT04384055,Stanford University,Not Applicable,Generic,Unknown,200,2020-12-31,United States,Unknown
+NCT04411602,Ascension South East Michigan,Not Applicable,Treatment,Phase 1,90,2020-12-31,United States,Recruiting
+NCT04476914,"University of Colorado, Denver",University of Washington,Generic,Unknown,250,2020-12-31,United States,"Active, not recruiting"
+NCT04526925,Rush University Medical Center,Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center,Prevention,Unknown,10,2020-12-31,United States,Recruiting
+NCT04559035,Augusta University,Not Applicable,Treatment,Unknown,200,2020-12-31,United States,Unknown
+NCT04561089,"Illumina, Inc.",Helix,Generic,Unknown,2000,2020-12-31,United States,Unknown
+NCT04570462,Northwell Health,Not Applicable,Treatment,Unknown,20,2020-12-31,United States,Recruiting
+NCT04414371,"Rutgers, The State University of New Jersey",Harvard Medical School,Supportive Care,Unknown,200,2020-12-31,United States,Recruiting
+NCT04582331,Sonde Health,Not Applicable,Generic,Unknown,300,2020-12-31,United States,Not yet recruiting
+NCT04365153,The Cleveland Clinic,Novartis,Treatment,Phase 2,45,2020-12-31,United States,Unknown
+NCT04397510,Frederick Health,Not Applicable,Treatment,Phase 4,50,2020-12-31,United States,Unknown
+NCT04556149,"Level 42 AI, Inc.",SF,Generic,Unknown,30,2020-12-31,United States,Recruiting
+NCT04370782,"St. Francis Hospital, New York",Not Applicable,Treatment,Phase 4,750,2020-12-31,United States,Recruiting
+NCT04365699,NYU Langone Health,Not Applicable,Treatment,Phase 2,500,2020-12-31,United States,Recruiting
+NCT04470999,"Serhat Gumrukcu, MD PhD",The Scripps Research Institute,Basic Science,Unknown,25,2020-12-31,United States,Recruiting
+NCT04400890,"Marvin McCreary, MD",Not Applicable,Treatment,Phase 2,200,2021-01-01,United States,Recruiting
+NCT04396106,"Atea Pharmaceuticals, Inc.",Not Applicable,Treatment,Phase 2,190,2021-01-01,United States,Recruiting
+NCT04372589,University of Manitoba,"University Health Network, Toronto",Treatment,Phase 2,3000,2021-01-01,United States,Recruiting
+NCT04435522,Rhode Island Hospital,Not Applicable,Treatment,Phase 1,16,2021-01-01,United States,Recruiting
+NCT04381013,Stanford University,Not Applicable,Device Feasibility,Unknown,4,2021-01-01,United States,Unknown
+NCT04432298,FibroGen,Not Applicable,Treatment,Phase 2,130,2021-01-01,United States,Recruiting
+NCT04354428,University of Washington,Bill and Melinda Gates Foundation,Treatment,Phase 2,300,2021-01-01,United States,Recruiting
+NCT04347954,Stanford University,Not Applicable,Treatment,Phase 1,45,2021-01-01,United States,Recruiting
+NCT04582214,Hill-Rom,Emory University,Treatment,Unknown,30,2021-01-01,United States,Recruiting
+NCT04431414,COVID-19 Prevention Network,National Institute of Allergy and Infectious Diseases (NIAID),Generic,Unknown,800,2021-01-01,United States,Recruiting
+NCT04368000,University of Utah,Not Applicable,Treatment,Unknown,30,2021-01-01,United States,Unknown
+NCT04583592,Sagent Pharmaceuticals Inc.,Not Applicable,Treatment,Phase 2,300,2021-01-01,United States,Unknown
+NCT04501952,Gilead Sciences,Not Applicable,Treatment,Phase 3,1230,2021-01-01,United States,Recruiting
+NCT04231097,Massachusetts General Hospital,Not Applicable,Treatment,Unknown,20,2021-01-02,United States,Recruiting
+NCT04583982,Adaptive Biotechnologies,Covance,Generic,Unknown,125,2021-01-09,United States,Unknown
+NCT04472494,Bristol-Myers Squibb,Not Applicable,Treatment,Phase 2,129,2021-01-14,United States,Recruiting
+NCT04427501,Eli Lilly and Company,AbCellera Biologics Inc.,Treatment,Phase 2,800,2021-01-15,United States,Recruiting
+NCT04536298,Brigham and Women's Hospital,Harvard Medical School,Treatment,Phase 3,2700,2021-01-15,United States,Unknown
+NCT04486001,"Personalized Stem Cells, Inc.","VetStem Biopharma, Inc.",Treatment,Phase 1,20,2021-01-15,United States,Unknown
+NCT04417257,Laurent Pharmaceuticals Inc.,Not Applicable,Treatment,Phase 2,240,2021-01-15,United States,Not yet recruiting
+NCT04575532,"physIQ, Inc.",National Institute for Biomedical Imaging and Bioengineering (NIBIB),Generic,Unknown,400,2021-01-22,United States,Unknown
+NCT04426695,Regeneron Pharmaceuticals,Not Applicable,Treatment,Phase 1,2970,2021-01-25,United States,Recruiting
+NCT04382651,Novartis Pharmaceuticals,Not Applicable,Treatment,Phase 2,120,2021-01-26,United States,Recruiting
+NCT04452474,R-Pharm,"Cromos Pharma, LLC",Treatment,Phase 2,376,2021-01-29,United States,Unknown
+NCT04497415,"Research Foundation for Mental Hygiene, Inc.",Not Applicable,Health Services Research,Unknown,1200,2021-01-30,United States,Unknown
+NCT04439071,PTC Therapeutics,Not Applicable,Treatment,Phase 2,380,2021-01-30,United States,Not yet recruiting
+NCT04519411,Mayo Clinic,Not Applicable,Other,Unknown,10,2021-01-31,United States,Recruiting
+NCT04352764,Texas Cardiac Arrhythmia Research Foundation,Not Applicable,Generic,Unknown,5000,2021-01-31,United States,Recruiting
+NCT04524715,Ward Photonics LLC,Not Applicable,Treatment,Unknown,64,2021-01-31,United States,Recruiting
+NCT04494893,Adaptive Biotechnologies,Covance,Generic,Unknown,1000,2021-01-31,United States,Recruiting
+NCT04446377,"AI Therapeutics, Inc.",Yale University,Treatment,Phase 2,142,2021-01-31,United States,Recruiting
+NCT04517695,NYU Langone Health,Not Applicable,Generic,Unknown,30,2021-02-01,United States,Recruiting
+NCT04452669,Aerogen Pharma Limited,Ohio State University,Treatment,Phase 2,20,2021-02-01,United States,Unknown
+NCT04584710,Restorbio Inc.,National Institute on Aging (NIA),Prevention,Phase 2,60,2021-02-01,United States,Unknown
+NCT04431453,Gilead Sciences,Not Applicable,Treatment,Phase 2,52,2021-02-01,United States,Recruiting
+NCT04511650,Aerpio Therapeutics,Medical Technology Enterprise Consortium (MTEC),Treatment,Phase 2,180,2021-02-01,United States,Not yet recruiting
+NCT04480411,Stanford University,Not Applicable,Other,Unknown,165,2021-02-01,United States,Unknown
+NCT04480424,Grifols Therapeutics LLC,Not Applicable,Treatment,Phase 2,100,2021-02-01,United States,Recruiting
+NCT04540120,Olatec Therapeutics LLC,CTI Clinical Trial and Consulting Services,Treatment,Phase 2,80,2021-02-01,United States,Recruiting
+NCT04454398,"Sorrento Therapeutics, Inc.",Not Applicable,Treatment,Phase 1,33,2021-02-01,United States,Recruiting
+NCT04157296,University of Michigan,National Institutes of Health (NIH),Treatment,Unknown,54,2021-02-01,United States,Recruiting
+NCT04449744,University of South Florida,Cambridge Health Alliance,Treatment,Unknown,30,2021-02-01,United States,Recruiting
+NCT03716869,Milton S. Hershey Medical Center,Health Resources and Services Administration (HRSA),Screening,Unknown,12506,2021-02-01,United States,Unknown
+NCT04442230,"Altimmune, Inc.",Not Applicable,Treatment,Phase 2,96,2021-02-01,United States,Recruiting
+NCT04518410,National Institute of Allergy and Infectious Diseases (NIAID),Eli Lilly and Company,Treatment,Phase 2,2000,2021-02-01,United States,Recruiting
+NCT04452565,"NeuroActiva, Inc.",Not Applicable,Prevention,Phase 2,525,2021-02-15,United States,Recruiting
+NCT04160975,Harvard University,Stanford University,Health Services Research,Unknown,3350,2021-02-15,United States,Unknown
+NCT04564586,Augusta University,Not Applicable,Prevention,Unknown,32,2021-02-15,United States,Unknown
+NCT04460664,HemoSonics LLC,Not Applicable,Generic,Unknown,50,2021-02-15,United States,Unknown
+NCT04377100,National Institute of Mental Health (NIMH),Not Applicable,Basic Science,Unknown,3000,2021-02-28,United States,Recruiting
+NCT04445285,Jon Simmons,University of South Alabama,Treatment,Phase 2,44,2021-02-28,United States,Recruiting
+NCT02899754,VA Office of Research and Development,Not Applicable,Prevention,Unknown,200,2021-02-28,United States,"Active, not recruiting"
+NCT04390542,Case Comprehensive Cancer Center,Not Applicable,Supportive Care,Unknown,40,2021-02-28,United States,Unknown
+NCT04367922,Northwestern University,Not Applicable,Supportive Care,Unknown,1000,2021-02-28,United States,Recruiting
+NCT04494646,NYU Langone Health,"Reata Pharmaceuticals, Inc.",Treatment,Phase 2,440,2021-02-28,United States,Recruiting
+NCT04486482,Kaleido Biosciences,Not Applicable,Other,Unknown,50,2021-03-01,United States,Recruiting
+NCT04508777,University of Pennsylvania,Not Applicable,Generic,Unknown,600,2021-03-01,United States,Unknown
+NCT04527471,Verona Pharma Inc,Not Applicable,Treatment,Phase 2,45,2021-03-01,United States,Recruiting
+NCT04331886,"Target PharmaSolutions, Inc.",Not Applicable,Generic,Unknown,5000,2021-03-01,United States,Recruiting
+NCT04495907,Davita Clinical Research,Not Applicable,Generic,Unknown,1000,2021-03-01,United States,Recruiting
+NCT04418505,Vielight Inc.,Not Applicable,Treatment,Unknown,280,2021-03-01,United States,Recruiting
+NCT02495753,Washington University School of Medicine,Not Applicable,Prevention,Unknown,608,2021-03-01,United States,Recruiting
+NCT04456153,University of Texas Southwestern Medical Center,Not Applicable,Treatment,Phase 2,60,2021-03-01,United States,Recruiting
+NCT04342195,Columbia University,Not Applicable,Generic,Unknown,50,2021-03-01,United States,Recruiting
+NCT04530448,West Virginia University,Not Applicable,Treatment,Phase 4,40,2021-03-01,United States,Unknown
+NCT04440007,"Sorrento Therapeutics, Inc.",Not Applicable,Treatment,Phase 2,80,2021-03-01,United States,Recruiting
+NCT04479358,University of Chicago,Not Applicable,Treatment,Phase 2,332,2021-03-01,United States,Recruiting
+NCT04362111,University of Alabama at Birmingham,Not Applicable,Treatment,Phase 3,30,2021-03-01,United States,Recruiting
+NCT04351243,Kinevant Sciences GmbH,"Roivant Sciences, Inc.",Treatment,Phase 2,270,2021-03-01,United States,Recruiting
+NCT04526912,Viela Bio,Not Applicable,Treatment,Phase 1,48,2021-03-01,United States,Recruiting
+NCT04411680,"Partner Therapeutics, Inc.",Not Applicable,Treatment,Phase 2,60,2021-03-01,United States,Recruiting
+NCT04373135,"University of California, Los Angeles",Not Applicable,Health Services Research,Unknown,2500,2021-03-01,United States,Unknown
+NCT04565353,University of Pennsylvania,Geisinger Clinic,Health Services Research,Unknown,125600,2021-03-01,United States,Recruiting
+NCT04388813,Verily Life Sciences LLC,Not Applicable,Generic,Unknown,1500,2021-03-01,United States,Recruiting
+NCT04540406,Notitia Biotechnologies Company,University of South Florida,Treatment,Phase 2,100,2021-03-01,United States,Unknown
+NCT04389840,Chimerix,Not Applicable,Treatment,Phase 2,524,2021-03-01,United States,Recruiting
+NCT04386252,"Aivita Biomedical, Inc.",Not Applicable,Prevention,Phase 1,180,2021-03-01,United States,Unknown
+NCT04495764,Davita Clinical Research,Not Applicable,Generic,Unknown,2504,2021-03-01,United States,Unknown
+NCT04448145,Columbia University,Not Applicable,Generic,Unknown,250,2021-03-01,United States,Recruiting
+NCT04386616,"Genentech, Inc.",Not Applicable,Treatment,Phase 2,390,2021-03-03,United States,Recruiting
+NCT04319731,University of Utah,Not Applicable,Treatment,Early Phase 1,10,2021-03-20,United States,Recruiting
+NCT04535167,Pfizer,Not Applicable,Treatment,Phase 1,56,2021-03-21,United States,Recruiting
+NCT04326452,TMC HealthCare,"PEEP Medical, LLC",Treatment,Unknown,30,2021-03-27,United States,Recruiting
+NCT04376034,West Virginia University,Not Applicable,Treatment,Phase 3,240,2021-03-30,United States,Recruiting
+NCT04535128,Brigham and Women's Hospital,Bristol-Myers Squibb,Generic,Unknown,10000,2021-03-30,United States,Recruiting
+NCT04415151,Yale University,Not Applicable,Treatment,Phase 2,60,2021-03-31,United States,Recruiting
+NCT04409535,University of New Mexico,Not Applicable,Generic,Unknown,500,2021-03-31,United States,Unknown
+NCT04496128,University of Pittsburgh,Not Applicable,Generic,Unknown,300,2021-03-31,United States,Unknown
+NCT04397757,University of Pennsylvania,Not Applicable,Treatment,Phase 1,80,2021-03-31,United States,Recruiting
+NCT04398264,Inova Health System,Not Applicable,Generic,Unknown,100,2021-03-31,United States,Recruiting
+NCT03681288,VA Office of Research and Development,Providence VA Medical Center,Treatment,Unknown,24,2021-03-31,United States,Recruiting
+NCT04575610,Yale University,Pfizer,Treatment,Phase 2,68,2021-03-31,United States,Unknown
+NCT04348500,Cedars-Sinai Medical Center,Not Applicable,Treatment,Phase 2,17,2021-03-31,United States,Unknown
+NCT04480333,"NeuroActiva, Inc.",Not Applicable,Treatment,Phase 1,45,2021-03-31,United States,Recruiting
+NCT04514016,University of Miami,Miami Center for AIDS Research,Generic,Unknown,100,2021-03-31,United States,Recruiting
+NCT04388527,University of Pennsylvania,Not Applicable,Treatment,Phase 1,50,2021-03-31,United States,Recruiting
+NCT04474483,State University of New York at Buffalo,Not Applicable,Treatment,Phase 2,30,2021-03-31,United States,Unknown
+NCT04496076,University of Pittsburgh,Not Applicable,Generic,Unknown,300,2021-03-31,United States,Unknown
+NCT04442178,Revimmune,Washington University School of Medicine,Treatment,Phase 2,48,2021-03-31,United States,Recruiting
+NCT04460677,"Rutgers, The State University of New Jersey",Not Applicable,Prevention,Unknown,80,2021-03-31,United States,Recruiting
+NCT04389671,Windtree Therapeutics,Not Applicable,Treatment,Phase 1,30,2021-04-01,United States,Unknown
+NCT04398277,Kent State University,Not Applicable,Supportive Care,Unknown,1000,2021-04-01,United States,Recruiting
+NCT04348864,Neuroganics LLC,Not Applicable,Diagnostic,Unknown,100,2021-04-01,United States,Recruiting
+NCT04343755,Hackensack Meridian Health,Not Applicable,Treatment,Phase 2,55,2021-04-01,United States,Recruiting
+NCT04345614,"CalciMedica, Inc.",Not Applicable,Treatment,Phase 2,400,2021-04-01,United States,Recruiting
+NCT04568122,Stanford University,Not Applicable,Diagnostic,Unknown,3015,2021-04-01,United States,Unknown
+NCT04362176,Vanderbilt University Medical Center,Dolly Parton,Treatment,Phase 3,500,2021-04-01,United States,Recruiting
+NCT04347993,Hackensack Meridian Health,Not Applicable,Generic,Unknown,5000,2021-04-01,United States,Recruiting
+NCT04374552,"Rutgers, The State University of New Jersey",Not Applicable,Treatment,Phase 2,140,2021-04-01,United States,Unknown
+NCT04558320,University of Rochester,National Institute of Allergy and Infectious Diseases (NIAID),Generic,Unknown,100,2021-04-01,United States,Recruiting
+NCT04379661,Columbia University,Not Applicable,Supportive Care,Unknown,52,2021-04-01,United States,Recruiting
+NCT04339426,HonorHealth Research Institute,Not Applicable,Treatment,Phase 2,25,2021-04-01,United States,Recruiting
+NCT04357041,"Clinical Nutrition Research Center, Illinois Institute of Technology",Not Applicable,Generic,Unknown,500,2021-04-01,United States,Unknown
+NCT04357574,Duke University,Not Applicable,Generic,Unknown,1000,2021-04-01,United States,Unknown
+NCT04346615,"Biohaven Pharmaceuticals, Inc.",Not Applicable,Treatment,Phase 2,120,2021-04-01,United States,Recruiting
+NCT04482686,ProgenaBiome,Topelia Therapeutics,Treatment,Phase 2,300,2021-04-01,United States,Unknown
+NCT04526769,University of Minnesota,Not Applicable,Generic,Unknown,30,2021-04-01,United States,Unknown
+NCT04524663,Stanford University,Not Applicable,Treatment,Phase 2,120,2021-04-01,United States,Unknown
+NCT04347239,"CytoDyn, Inc.",Not Applicable,Treatment,Phase 2,390,2021-04-01,United States,Recruiting
+NCT04359810,Max R. O'Donnell,New York Blood Center,Treatment,Phase 2,105,2021-04-01,United States,Recruiting
+NCT04382586,BeiGene,Not Applicable,Treatment,Phase 2,52,2021-04-01,United States,Recruiting
+NCT04471051,"University of Colorado, Denver",Not Applicable,Generic,Unknown,150,2021-04-01,United States,Recruiting
+NCT04425252,"Clear Creek Bio, Inc.",Not Applicable,Treatment,Phase 1,24,2021-04-01,United States,Recruiting
+NCT04312009,University of Minnesota,Bill and Melinda Gates Foundation,Treatment,Phase 2,200,2021-04-01,United States,Recruiting
+NCT04447469,"Kiniksa Pharmaceuticals, Ltd.",Not Applicable,Treatment,Phase 2,573,2021-04-01,United States,Recruiting
+NCT04328012,Bassett Healthcare,Reid Health,Treatment,Phase 2,4000,2021-04-01,United States,Recruiting
+NCT04369599,Emory University,Georgia Tech Research Foundation,Treatment,Unknown,24,2021-04-01,United States,Unknown
+NCT04505592,Hooman Poor,"Genentech, Inc.",Treatment,Phase 2,60,2021-04-01,United States,Recruiting
+NCT04367831,Columbia University,Not Applicable,Treatment,Phase 4,100,2021-04-01,United States,Recruiting
+NCT04452942,EicOsis Human Health Inc.,Not Applicable,Generic,Unknown,30,2021-04-01,United States,Unknown
+NCT04390503,Columbia University,Not Applicable,Treatment,Phase 2,200,2021-04-01,United States,Recruiting
+NCT04473599,"University of California, Berkeley",Not Applicable,Prevention,Unknown,200,2021-04-01,United States,Recruiting
+NCT04311177,University of Minnesota,The Minnesota Foundation,Treatment,Phase 2,580,2021-04-01,United States,Recruiting
+NCT04367740,"University of North Carolina, Chapel Hill",Not Applicable,Generic,Unknown,10000,2021-04-01,United States,Unknown
+NCT04349371,Columbia University,Not Applicable,Prevention,Phase 2,350,2021-04-01,United States,Recruiting
+NCT04374565,University of Virginia,Not Applicable,Treatment,Phase 2,29,2021-04-05,United States,Unknown
+NCT04508023,"Janssen Research & Development, LLC",Not Applicable,Treatment,Phase 3,4000,2021-04-06,United States,Recruiting
+NCT04339634,Tabula Rasa HealthCare,Not Applicable,Generic,Unknown,12123,2021-04-06,United States,Unknown
+NCT04370262,Northwell Health,Not Applicable,Treatment,Phase 3,942,2021-04-07,United States,Recruiting
+NCT04345653,Hackensack Meridian Health,Not Applicable,Prevention,Phase 2,44,2021-04-08,United States,Unknown
+NCT04344015,Thomas Jefferson University,Not Applicable,Other,Unknown,2000,2021-04-12,United States,Recruiting
+NCT04369989,OSF Healthcare System,Not Applicable,Generic,Unknown,1000,2021-04-14,United States,Unknown
+NCT04389710,Thomas Jefferson University,Not Applicable,Treatment,Phase 2,100,2021-04-14,United States,Recruiting
+NCT04375397,AbbVie,"Janssen Research & Development, LLC",Treatment,Phase 2,46,2021-04-16,United States,Not yet recruiting
+NCT04360824,University of Iowa,Not Applicable,Treatment,Phase 4,170,2021-04-16,United States,Recruiting
+NCT04497922,Brigham and Women's Hospital,E-ink corporation,Other,Unknown,100,2021-04-17,United States,Unknown
+NCT04365127,Sara Ghandehari,IBSA Institut Biochimique SA,Treatment,Phase 1,40,2021-04-17,United States,Unknown
+NCT04355143,"University of California, Los Angeles",Not Applicable,Treatment,Phase 2,150,2021-04-25,United States,Recruiting
+NCT04401293,Northwell Health,Not Applicable,Treatment,Phase 3,308,2021-04-26,United States,Recruiting
+NCT04341441,Henry Ford Health System,Not Applicable,Prevention,Phase 3,3000,2021-04-30,United States,Recruiting
+NCT04513990,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Diagnostic,Unknown,1500,2021-04-30,United States,Recruiting
+NCT04565665,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Treatment,Phase 1,70,2021-04-30,United States,Recruiting
+NCT04478019,"University of Wisconsin, Madison",Not Applicable,Prevention,Early Phase 1,94,2021-04-30,United States,Recruiting
+NCT04323787,Mayo Clinic,Society of Critical Care Medicine,Generic,Unknown,50000,2021-04-30,United States,Recruiting
+NCT04348435,Hope Biosciences,Hope Biosciences Stem Cell Research Foundation,Prevention,Phase 2,100,2021-04-30,United States,Unknown
+NCT04336332,"Rutgers, The State University of New Jersey",Not Applicable,Treatment,Phase 2,160,2021-04-30,United States,Recruiting
+NCT04491292,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Generic,Unknown,20000,2021-04-30,United States,Recruiting
+NCT04378881,Tabula Rasa HealthCare,Cambia Health Solutions,Generic,Unknown,100,2021-04-30,United States,Unknown
+NCT04432870,Massachusetts General Hospital,Patient-Centered Outcomes Research Institute,Generic,Unknown,200,2021-04-30,United States,Unknown
+NCT04421404,"Priscilla Hsue, MD",Blood Systems Research Institute,Treatment,Phase 2,50,2021-04-30,United States,Recruiting
+NCT04528771,Robert Schilz,Case Western Reserve University,Treatment,Phase 1,21,2021-04-30,United States,Unknown
+NCT04342728,The Cleveland Clinic,Not Applicable,Supportive Care,Unknown,520,2021-04-30,United States,Unknown
+NCT04586192,University of Pennsylvania,Not Applicable,Supportive Care,Unknown,2500,2021-05-01,United States,Unknown
+NCT04480112,Boston University,Not Applicable,Other,Unknown,150,2021-05-01,United States,Unknown
+NCT04418934,Hemanext,Not Applicable,Other,Phase 2,0,2021-05-01,United States,Unknown
+NCT04344184,Virginia Commonwealth University,Not Applicable,Treatment,Phase 2,200,2021-05-01,United States,Unknown
+NCT04521920,Duke University,Not Applicable,Health Services Research,Phase 4,20,2021-05-01,United States,Unknown
+NCT04388709,Icahn School of Medicine at Mount Sinai,Eiger BioPharmaceuticals,Treatment,Phase 2,66,2021-05-01,United States,Unknown
+NCT04414826,University of Texas at Austin,Not Applicable,Treatment,Unknown,120,2021-05-01,United States,Recruiting
+NCT04412330,University of Kentucky,Ashley Montgomery-Yates,Treatment,Unknown,20,2021-05-01,United States,Recruiting
+NCT04068922,University of Florida,National Institute on Aging (NIA),Treatment,Unknown,60,2021-05-01,United States,Recruiting
+NCT01134172,Memorial Sloan Kettering Cancer Center,The City College of New York,Generic,Unknown,935,2021-05-01,United States,Unknown
+NCT04344561,Johns Hopkins University,Not Applicable,Treatment,Unknown,70,2021-05-01,United States,Recruiting
+NCT04409834,The TIMI Study Group,Not Applicable,Prevention,Phase 4,750,2021-05-01,United States,Recruiting
+NCT04374019,Susanne Arnold,Not Applicable,Treatment,Phase 2,240,2021-05-01,United States,Recruiting
+NCT04561193,Methodist Health System,Not Applicable,Generic,Unknown,200,2021-05-01,United States,Recruiting
+NCT04522817,"Caladrius Biosciences, Inc.",Not Applicable,Treatment,Phase 1,12,2021-05-01,United States,Recruiting
+NCT04374656,Johns Hopkins University,Not Applicable,Generic,Unknown,50,2021-05-01,United States,Recruiting
+NCT04393311,Stanford University,Not Applicable,Treatment,Phase 1,160,2021-05-01,United States,Unknown
+NCT04377659,Memorial Sloan Kettering Cancer Center,Not Applicable,Treatment,Phase 2,40,2021-05-01,United States,Recruiting
+NCT04331899,Stanford University,Not Applicable,Treatment,Phase 2,120,2021-05-01,United States,Unknown
+NCT04381988,Memorial Sloan Kettering Cancer Center,Not Applicable,Prevention,Phase 2,132,2021-05-01,United States,Recruiting
+NCT04524507,"University of North Carolina, Chapel Hill",Not Applicable,Treatment,Phase 2,56,2021-05-01,United States,Recruiting
+NCT04366050,"University of California, San Diego",Pfizer,Treatment,Phase 2,560,2021-05-01,United States,Unknown
+NCT04374461,Memorial Sloan Kettering Cancer Center,Not Applicable,Treatment,Phase 2,84,2021-05-01,United States,Recruiting
+NCT04570501,Stanford University,Not Applicable,Treatment,Phase 1,160,2021-05-01,United States,Unknown
+NCT04408222,Columbia University,Not Applicable,Generic,Unknown,29,2021-05-01,United States,Unknown
+NCT04372628,Vanderbilt University Medical Center,AbbVie,Treatment,Phase 2,600,2021-05-01,United States,Recruiting
+NCT04348942,ObvioHealth,Not Applicable,Generic,Unknown,10000,2021-05-01,United States,Unknown
+NCT04364802,Alexandra Kejner,Not Applicable,Prevention,Phase 2,250,2021-05-01,United States,Recruiting
+NCT04390191,Icahn School of Medicine at Mount Sinai,Itamar Medical LTD,Treatment,Unknown,200,2021-05-01,United States,Recruiting
+NCT04353206,Noah Merin,Johns Hopkins University,Treatment,Early Phase 1,60,2021-05-01,United States,Recruiting
+NCT04504734,"Revive Therapeutics, Ltd.",Not Applicable,Treatment,Phase 3,1000,2021-05-01,United States,Unknown
+NCT04442191,University of Illinois at Chicago,Not Applicable,Treatment,Phase 2,50,2021-05-05,United States,Recruiting
+NCT04403035,Ascension South East Michigan,Not Applicable,Generic,Unknown,100,2021-05-09,United States,Recruiting
+NCT04579458,Vanderbilt University Medical Center,Not Applicable,Generic,Unknown,500,2021-05-09,United States,Unknown
+NCT04551339,Mayo Clinic,Not Applicable,Other,Unknown,4500,2021-05-14,United States,Unknown
+NCT04570488,NYU Langone Health,Not Applicable,Health Services Research,Unknown,1200,2021-05-15,United States,Recruiting
+NCT04381923,University of Pennsylvania,Not Applicable,Supportive Care,Unknown,200,2021-05-15,United States,Unknown
+NCT04407286,Arizona State University,Southwest College of Naturopathic Medicine,Treatment,Phase 1,100,2021-05-18,United States,Recruiting
+NCT04548531,Massachusetts General Hospital,Patient-Centered Outcomes Research Institute,Health Services Research,Unknown,800,2021-05-30,United States,Unknown
+NCT04424901,UConn Health,Not Applicable,Treatment,Phase 2,100,2021-05-30,United States,Recruiting
+NCT04091893,"University of California, Davis",Not Applicable,Treatment,Unknown,64,2021-05-30,United States,Recruiting
+NCT04399980,The Cleveland Clinic,"Kiniksa Pharmaceuticals, Ltd.",Treatment,Phase 2,30,2021-05-31,United States,Unknown
+NCT04402801,University of Virginia,Not Applicable,Generic,Unknown,140,2021-05-31,United States,Unknown
+NCT03276559,Weill Medical College of Cornell University,New York Hospital Queens,Treatment,Unknown,155,2021-05-31,United States,Completed
+NCT04421690,University of Missouri-Columbia,Not Applicable,Treatment,Unknown,30,2021-05-31,United States,Recruiting
+NCT04492514,Kristin Hudock,"Kiniksa Pharmaceuticals, Ltd.",Treatment,Phase 2,60,2021-05-31,United States,Recruiting
+NCT04464486,University of Utah,Not Applicable,Supportive Care,Unknown,300,2021-05-31,United States,Unknown
+NCT04419025,Cambridge Health Alliance,Not Applicable,Treatment,Phase 4,200,2021-05-31,United States,Recruiting
+NCT04353284,Yale University,Not Applicable,Treatment,Phase 2,114,2021-05-31,United States,Recruiting
+NCT04363866,Oregon Health and Science University,OHSU Knight Cancer Institute,Treatment,Phase 4,40,2021-06-01,United States,Unknown
+NCT04487444,Rhode Island Hospital,Not Applicable,Treatment,Phase 2,80,2021-06-01,United States,Recruiting
+NCT04495816,Icahn School of Medicine at Mount Sinai,Not Applicable,Treatment,Phase 2,126,2021-06-01,United States,Recruiting
+NCT04349332,University of Chicago,Not Applicable,Supportive Care,Unknown,108,2021-06-01,United States,Unknown
+NCT04512079,Valentin Fuster,Not Applicable,Treatment,Phase 4,3600,2021-06-01,United States,Recruiting
+NCT04562285,Henry Ford Health System,Not Applicable,Generic,Unknown,500,2021-06-01,United States,Recruiting
+NCT04421508,Bellerophon Pulse Technologies,Not Applicable,Treatment,Phase 3,500,2021-06-01,United States,Recruiting
+NCT04349202,William Beaumont Hospitals,Not Applicable,Generic,Unknown,56000,2021-06-01,United States,Recruiting
+NCT04359797,Vanderbilt University Medical Center,Not Applicable,Supportive Care,Unknown,300,2021-06-01,United States,Unknown
+NCT04473274,Samaritan Health Services,Not Applicable,Treatment,Phase 4,20,2021-06-01,United States,Recruiting
+NCT04496466,Johns Hopkins University,Not Applicable,Generic,Unknown,500,2021-06-01,United States,Unknown
+NCT04431297,Icahn School of Medicine at Mount Sinai,Not Applicable,Supportive Care,Unknown,30,2021-06-01,United States,Unknown
+NCT04493307,LifeBridge Health,Haemonetics Corporation,Generic,Unknown,100,2021-06-01,United States,Recruiting
+NCT04425720,Montefiore Medical Center,Not Applicable,Supportive Care,Unknown,300,2021-06-01,United States,Unknown
+NCT04372004,Texas Cardiac Arrhythmia Research Foundation,Not Applicable,Diagnostic,Phase 1,100,2021-06-01,United States,Recruiting
+NCT04439084,Stanford University,Not Applicable,Generic,Unknown,1000,2021-06-01,United States,Unknown
+NCT04378530,Arizona State University,Not Applicable,Other,Unknown,150,2021-06-01,United States,Recruiting
+NCT04363450,Louisiana State University Health Sciences Center in New Orleans,Lafayette General Health,Prevention,Phase 3,1700,2021-06-01,United States,Recruiting
+NCT04424446,National Institutes of Health Clinical Center (CC),Not Applicable,Generic,Unknown,5000,2021-06-01,United States,Recruiting
+NCT04407195,Northeastern University,Not Applicable,Generic,Unknown,2000,2021-06-01,United States,Unknown
+NCT04397796,"NantKwest, Inc.",Not Applicable,Treatment,Phase 1,45,2021-06-01,United States,Recruiting
+NCT04406389,Weill Medical College of Cornell University,Not Applicable,Treatment,Phase 4,186,2021-06-01,United States,Recruiting
+NCT04581811,University of Alabama at Birmingham,Not Applicable,Treatment,Unknown,52,2021-06-01,United States,Unknown
+NCT04342689,Yale University,University of Michigan,Treatment,Phase 3,1500,2021-06-01,United States,Recruiting
+NCT04465981,INanoBio Inc.,TMC HealthCare,Generic,Unknown,80,2021-06-01,United States,Recruiting
+NCT04369742,NYU Langone Health,State University of New York - Downstate Medical Center,Treatment,Phase 2,626,2021-06-01,United States,Unknown
+NCT04372017,Sanford Health,Not Applicable,Prevention,Phase 3,1,2021-06-04,United States,Unknown
+NCT04423770,American Dental Association,Not Applicable,Generic,Unknown,4000,2021-06-08,United States,Unknown
+NCT04353037,UnitedHealth Group,ProHealth Care Associates,Treatment,Phase 2,850,2021-06-15,United States,Recruiting
+NCT04567953,Paradigm Laboratories LLC,Not Applicable,Screening,Unknown,2000,2021-06-27,United States,Unknown
+NCT04497987,Eli Lilly and Company,National Institute of Allergy and Infectious Diseases (NIAID),Prevention,Phase 3,2400,2021-06-29,United States,Recruiting
+NCT04424004,Duke University,North Carolina Department of Health and Human Services,Generic,Unknown,500,2021-06-30,United States,Unknown
+NCT04539821,VA Office of Research and Development,Not Applicable,Health Services Research,Unknown,60,2021-06-30,United States,Unknown
+NCT03260140,VA Office of Research and Development,Not Applicable,Treatment,Unknown,500,2021-06-30,United States,Unknown
+NCT04462250,"Rutgers, The State University of New Jersey",Not Applicable,Device Feasibility,Unknown,15,2021-06-30,United States,Unknown
+NCT04360551,University of Hawaii,Not Applicable,Treatment,Phase 2,40,2021-06-30,United States,Recruiting
+NCT04212442,University of Pennsylvania,"University of California, Berkeley",Other,Unknown,70,2021-06-30,United States,Recruiting
+NCT04498377,Generon (Shanghai) Corporation Ltd.,Not Applicable,Treatment,Phase 2,38,2021-06-30,United States,Recruiting
+NCT04365101,Celularity Incorporated,IDRI,Treatment,Phase 1,86,2021-06-30,United States,Recruiting
+NCT04385251,University of Minnesota,National Institutes of Health (NIH),Generic,Unknown,10000,2021-06-30,United States,Recruiting
+NCT04437706,Duke University,Not Applicable,Generic,Unknown,200,2021-06-30,United States,Unknown
+NCT04476953,Mayo Clinic,Not Applicable,Treatment,Phase 2,70,2021-07-01,United States,Unknown
+NCT04419623,"Telios Pharma, Inc.",Not Applicable,Treatment,Phase 1,146,2021-07-01,United States,Recruiting
+NCT04237883,"University of California, Los Angeles",Not Applicable,Health Services Research,Unknown,225,2021-07-01,United States,Unknown
+NCT04351880,Kaiser Permanente,Not Applicable,Other,Unknown,640,2021-07-01,United States,Recruiting
+NCT04482621,Johns Hopkins University,Not Applicable,Treatment,Phase 2,40,2021-07-01,United States,Recruiting
+NCT04546581,University of Minnesota,National Institute of Allergy and Infectious Diseases (NIAID),Treatment,Phase 3,500,2021-07-01,United States,Unknown
+NCT04545060,"Vir Biotechnology, Inc.",GlaxoSmithKline,Treatment,Phase 2,1360,2021-07-01,United States,Recruiting
+NCT04583969,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Treatment,Phase 2,200,2021-07-01,United States,Unknown
+NCT04456413,Hackensack Meridian Health,Not Applicable,Treatment,Phase 2,306,2021-07-01,United States,Unknown
+NCT04474288,Bassett Healthcare,"Bioreference, Inc",Generic,Unknown,400,2021-07-01,United States,Recruiting
+NCT04583956,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Treatment,Phase 2,200,2021-07-01,United States,Unknown
+NCT04500600,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Generic,Unknown,50000,2021-07-01,United States,Recruiting
+NCT04574869,"ReAlta Life Sciences, Inc.",Not Applicable,Treatment,Phase 1,42,2021-07-01,United States,Unknown
+NCT04348240,National Institute of Dental and Craniofacial Research (NIDCR),Not Applicable,Generic,Unknown,60,2021-07-01,United States,Recruiting
+NCT04501978,National Institute of Allergy and Infectious Diseases (NIAID),International Network for Strategic Initiatives in Global HIV Trials (INSIGHT),Treatment,Phase 3,10000,2021-07-01,United States,Recruiting
+NCT04474301,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Generic,Unknown,1152,2021-07-01,United States,Recruiting
+NCT04336410,Inovio Pharmaceuticals,Coalition for Epidemic Preparedness Innovations (CEPI),Prevention,Phase 1,120,2021-07-01,United States,Unknown
+NCT04369469,Alexion Pharmaceuticals,Not Applicable,Treatment,Phase 3,270,2021-07-01,United States,Recruiting
+NCT04466306,Children's Healthcare of Atlanta,"Children's Hospital Medical Center, Cincinnati",Generic,Unknown,250,2021-07-01,United States,Unknown
+NCT04460690,"University of Wisconsin, Madison",National Institutes of Health (NIH),Diagnostic,Unknown,10000,2021-07-01,United States,Unknown
+NCT04542642,"Pear Therapeutics, Inc.",Addiction Research and Education Foundation (AREF),Treatment,Unknown,130,2021-07-01,United States,Unknown
+NCT04346628,Stanford University,Not Applicable,Treatment,Phase 2,120,2021-07-01,United States,Unknown
+NCT04433078,Temple University,Not Applicable,Treatment,Phase 2,20,2021-07-01,United States,Recruiting
+NCT04482647,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Supportive Care,Phase 1,50,2021-07-01,United States,Recruiting
+NCT03651622,"University of North Carolina, Chapel Hill",National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),Treatment,Unknown,69,2021-07-01,United States,Unknown
+NCT04538495,"University of California, San Diego",Not Applicable,Generic,Unknown,100,2021-07-01,United States,Recruiting
+NCT04337762,Beat COVID LLC,Not Applicable,Generic,Unknown,100000,2021-07-01,United States,Recruiting
+NCT04398290,Roger Alvarez,Bellerophon Therapeutics,Treatment,Phase 2,0,2021-07-15,United States,Unknown
+NCT04447222,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Generic,Unknown,1242,2021-07-21,United States,Recruiting
+NCT04490278,Washington University School of Medicine,Not Applicable,Supportive Care,Unknown,80,2021-07-30,United States,Recruiting
+NCT04378595,University of Texas at Austin,Not Applicable,Generic,Unknown,1000,2021-07-30,United States,Recruiting
+NCT04498325,Washington University School of Medicine,NeoImmune Tech,Treatment,Phase 1,42,2021-07-31,United States,Unknown
+NCT04494724,The Methodist Hospital System,Not Applicable,Treatment,Phase 2,60,2021-07-31,United States,Recruiting
+NCT04514627,Olive View-UCLA Education & Research Institute,Not Applicable,Treatment,Unknown,100,2021-07-31,United States,Recruiting
+NCT04565392,drpykessupplements.com,Not Applicable,Treatment,Phase 4,216,2021-07-31,United States,Unknown
+NCT04418557,University Hospitals Cleveland Medical Center,Cuyahoga County Board of Health,Generic,Unknown,200,2021-07-31,United States,Recruiting
+NCT04379284,Mayo Clinic,Not Applicable,Generic,Unknown,100,2021-07-31,United States,Recruiting
+NCT04501588,Northwestern University,Not Applicable,Treatment,Phase 2,40,2021-07-31,United States,Recruiting
+NCT04359836,ProgenaBiome,Not Applicable,Generic,Unknown,250,2021-07-31,United States,Recruiting
+NCT04388683,Tufts Medical Center,Bellerophon,Treatment,Phase 2,42,2021-07-31,United States,Recruiting
+NCT04399889,"Joanne Kurtzberg, MD",The Marcus Foundation,Treatment,Phase 1,30,2021-07-31,United States,Recruiting
+NCT04539756,University of Pittsburgh,Not Applicable,Basic Science,Unknown,250,2021-08-01,United States,Recruiting
+NCT04405076,"ModernaTX, Inc.",Biomedical Advanced Research and Development Authority,Prevention,Phase 2,600,2021-08-01,United States,Unknown
+NCT04562246,Henry Ford Health System,Not Applicable,Generic,Unknown,500,2021-08-01,United States,Recruiting
+NCT04333732,Washington University School of Medicine,COVID -19 Therapeutics Accelerator,Prevention,Phase 3,30000,2021-08-01,United States,Recruiting
+NCT02901041,Boston University Charles River Campus,Mclean Hospital,Treatment,Phase 3,100,2021-08-01,United States,Unknown
+NCT04365985,William Beaumont Hospitals,Not Applicable,Treatment,Phase 2,500,2021-08-01,United States,Recruiting
+NCT04463004,Virginia Commonwealth University,"Kiniksa Pharmaceuticals, Ltd.",Treatment,Phase 2,60,2021-08-01,United States,Recruiting
+NCT04432272,William Beaumont Hospitals,Not Applicable,Treatment,Phase 2,500,2021-08-01,United States,Recruiting
+NCT04403880,HIV Vaccine Trials Network,National Institute of Allergy and Infectious Diseases (NIAID),Generic,Unknown,727,2021-08-01,United States,Recruiting
+NCT04363203,Salomeh Keyhani MD,San Francisco VA Health Care System,Treatment,Phase 3,300,2021-08-01,United States,Unknown
+NCT04489628,University Hospitals Cleveland Medical Center,Northwestern University,Treatment,Phase 1,110,2021-08-01,United States,Unknown
+NCT04341727,Washington University School of Medicine,Not Applicable,Treatment,Phase 3,500,2021-08-01,United States,Unknown
+NCT04380961,"Janssen Pharmaceutica N.V., Belgium",Not Applicable,Treatment,Phase 2,270,2021-08-06,United States,Not yet recruiting
+NCT04438057,Metro Infectious Disease Consultants,Not Applicable,Treatment,Phase 2,150,2021-08-12,United States,Recruiting
+NCT04401410,Baylor College of Medicine,"Center for Cell and Gene Therapy, Baylor College of Medicine",Treatment,Phase 1,58,2021-08-15,United States,Unknown
+NCT04452318,Regeneron Pharmaceuticals,Not Applicable,Treatment,Phase 3,2000,2021-08-15,United States,Recruiting
+NCT04432766,Bio-Thera Solutions,Not Applicable,Treatment,Phase 1,174,2021-08-18,United States,Unknown
+NCT04525521,National Jewish Health,Not Applicable,Generic,Unknown,40,2021-08-20,United States,Recruiting
+NCT04409873,"University of California, San Francisco",Not Applicable,Supportive Care,Phase 2,150,2021-08-31,United States,Unknown
+NCT04343976,Raymond Chung,Eiger BioPharmaceuticals,Treatment,Phase 2,20,2021-08-31,United States,Unknown
+NCT04517396,University of Pennsylvania,University of Arizona,Treatment,Unknown,300,2021-08-31,United States,Unknown
+NCT04464395,"Corvus Pharmaceuticals, Inc.",Not Applicable,Treatment,Phase 1,30,2021-08-31,United States,Recruiting
+NCT04530500,"University of California, Irvine","Applied Biology, Inc.",Generic,Unknown,200,2021-08-31,United States,Unknown
+NCT04344535,Stony Brook University,Not Applicable,Treatment,Phase 1,500,2021-08-31,United States,Unknown
+NCT04564274,"National Heart, Lung, and Blood Institute (NHLBI)",Not Applicable,Generic,Unknown,120000,2021-09-01,United States,Recruiting
+NCT04391309,Implicit Bioscience,University of Washington,Treatment,Phase 2,300,2021-09-01,United States,Unknown
+NCT04335084,ProgenaBiome,DSCS CRO,Prevention,Phase 2,600,2021-09-01,United States,Recruiting
+NCT04485130,"University of California, San Francisco",Not Applicable,Treatment,Phase 2,60,2021-09-01,United States,Unknown
+NCT04506229,Texas Cardiac Arrhythmia Research Foundation,Not Applicable,Generic,Unknown,60,2021-09-01,United States,Recruiting
+NCT04404192,"VistaGen Therapeutics, Inc.",Not Applicable,Treatment,Phase 2,30,2021-09-01,United States,Unknown
+NCT04472728,Biophytis,Not Applicable,Treatment,Phase 2,310,2021-09-01,United States,Not yet recruiting
+NCT04579549,"University of Wisconsin, Madison",National Institutes of Health (NIH),Diagnostic,Unknown,10000,2021-09-01,United States,Unknown
+NCT04502056,"National Bureau of Economic Research, Inc.",Massachusetts General Hospital,Prevention,Unknown,20000,2021-09-01,United States,Unknown
+NCT04334512,ProgenaBiome,DSCS CRO,Treatment,Phase 2,600,2021-09-01,United States,Recruiting
+NCT04509206,Boston University,Not Applicable,Other,Unknown,25,2021-09-01,United States,Unknown
+NCT04379518,Roswell Park Cancer Institute,National Cancer Institute (NCI),Supportive Care,Phase 1,44,2021-09-04,United States,Recruiting
+NCT04497389,University of Utah,Not Applicable,Treatment,Phase 1,60,2021-09-15,United States,Unknown
+NCT04514900,University of South Carolina,University of Vermont,Treatment,Unknown,120,2021-09-15,United States,Recruiting
+NCT04501445,Rush University Medical Center,Central Michigan University,Supportive Care,Unknown,100,2021-09-15,United States,Recruiting
+NCT04540484,Advocate Health Care,Terika Richardson- President's Fund,Generic,Unknown,900,2021-09-24,United States,Recruiting
+NCT04585945,Prisma Health-Upstate,Not Applicable,Generic,Unknown,100,2021-09-30,United States,Recruiting
+NCT04539795,University of Alabama at Birmingham,Mereo BioPharma,Treatment,Phase 1,15,2021-09-30,United States,Unknown
+NCT04332107,Thomas M. Lietman,Bill and Melinda Gates Foundation,Treatment,Phase 3,2271,2021-09-30,United States,Recruiting
+NCT04581200,Duke University,National Center for Complementary and Integrative Health (NCCIH),Supportive Care,Unknown,300,2021-09-30,United States,Unknown
+NCT03873467,Baylor Research Institute,"National Institute on Disability, Independent Living, and Rehabilitation Research",Other,Unknown,65,2021-09-30,United States,Unknown
+NCT04468971,"Cellenkos, Inc.",Not Applicable,Treatment,Phase 1,45,2021-09-30,United States,Recruiting
+NCT04519216,"University of California, Davis",Not Applicable,Other,Unknown,39,2021-09-30,United States,Recruiting
+NCT04537208,"Sanofi Pasteur, a Sanofi Company",GlaxoSmithKline,Prevention,Phase 1,440,2021-10-01,United States,Recruiting
+NCT03684980,Memorial Sloan Kettering Cancer Center,University of Alabama at Birmingham,Treatment,Early Phase 1,22,2021-10-01,United States,Recruiting
+NCT04391920,"CytoSorbents, Inc",Not Applicable,Generic,Unknown,500,2021-10-01,United States,Recruiting
+NCT04530604,Gregory Yanik,Jazz Pharmaceuticals,Treatment,Phase 1,12,2021-10-01,United States,Recruiting
+NCT03323463,Memorial Sloan Kettering Cancer Center,Not Applicable,Treatment,Phase 2,300,2021-10-01,United States,Recruiting
+NCT04340232,"University of Colorado, Denver",Not Applicable,Treatment,Phase 2,80,2021-10-01,United States,Unknown
+NCT04447404,Durect,Not Applicable,Treatment,Phase 2,80,2021-10-01,United States,Recruiting
+NCT04563702,Vaxart,Not Applicable,Prevention,Phase 1,48,2021-10-01,United States,Recruiting
+NCT04570449,Milton S. Hershey Medical Center,Not Applicable,Treatment,Early Phase 1,40,2021-10-01,United States,Unknown
+NCT04136340,Memorial Sloan Kettering Cancer Center,Not Applicable,Supportive Care,Unknown,466,2021-10-01,United States,Recruiting
+NCT04367857,Columbia University,Not Applicable,Generic,Unknown,1000,2021-10-01,United States,Recruiting
+NCT03648372,"Millennium Pharmaceuticals, Inc.",Not Applicable,Treatment,Phase 1,80,2021-10-06,United States,Completed
+NCT04587245,"ND Sciences, LLC","University of California, Irvine",Generic,Unknown,100,2021-10-15,United States,Recruiting
+NCT04582201,"AgenTus Therapeutics, Inc.",Not Applicable,Treatment,Phase 1,55,2021-10-15,United States,Recruiting
+NCT04377308,University of Toledo Health Science Campus,Not Applicable,Treatment,Phase 4,2000,2021-10-20,United States,Recruiting
+NCT04336215,"Rutgers, The State University of New Jersey",Not Applicable,Generic,Unknown,750,2021-10-21,United States,Recruiting
+NCT04519437,Regeneron Pharmaceuticals,Not Applicable,Treatment,Phase 1,940,2021-10-25,United States,Recruiting
+NCT04404361,CTI BioPharma,Not Applicable,Treatment,Phase 3,358,2021-10-31,United States,Recruiting
+NCT04374279,Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,Not Applicable,Treatment,Phase 2,60,2021-11-01,United States,Unknown
+NCT04409743,Stanford University,Not Applicable,Prevention,Unknown,100,2021-11-01,United States,Recruiting
+NCT04513314,University of Miami,Not Applicable,Treatment,Phase 4,20,2021-11-01,United States,Unknown
+NCT04348370,Texas A&M University,Baylor College of Medicine,Prevention,Phase 4,1800,2021-11-01,United States,Recruiting
+NCT04395716,ProgenaBiome,"Rinati Skin, LLC",Treatment,Phase 1,50,2021-11-01,United States,Unknown
+NCT04455958,OHSU Knight Cancer Institute,Oregon Health and Science University,Treatment,Phase 2,75,2021-11-01,United States,Unknown
+NCT04570397,Brigham and Women's Hospital,Not Applicable,Treatment,Phase 3,32,2021-11-01,United States,Unknown
+NCT04368988,Novavax,Coalition for Epidemic Preparedness Innovations (CEPI),Prevention,Phase 1,1419,2021-11-18,United States,Unknown
+NCT04283461,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Prevention,Phase 1,120,2021-11-22,United States,Unknown
+NCT04494386,"Restem, LLC.",Not Applicable,Treatment,Phase 1,60,2021-11-30,United States,Recruiting
+NCT04342884,Wake Forest University Health Sciences,Not Applicable,Generic,Unknown,150000,2021-12-01,United States,Recruiting
+NCT04555187,Oregon Health and Science University,Not Applicable,Generic,Unknown,60000,2021-12-01,United States,Unknown
+NCT04401423,Columbia University,Not Applicable,Treatment,Phase 2,100,2021-12-01,United States,Recruiting
+NCT04358003,Marker Therapeutics AG,Terumo BCT,Treatment,Unknown,2000,2021-12-01,United States,Recruiting
+NCT04542421,"University of Colorado, Denver",Not Applicable,Health Services Research,Unknown,90,2021-12-01,United States,Recruiting
+NCT04397614,University of Oklahoma,Not Applicable,Generic,Unknown,500,2021-12-01,United States,Recruiting
+NCT04555096,"Galera Therapeutics, Inc.",Not Applicable,Treatment,Phase 2,50,2021-12-01,United States,Recruiting
+NCT04558307,Mayo Clinic,Not Applicable,Generic,Unknown,1000,2021-12-01,United States,Unknown
+NCT04344600,Johns Hopkins University,Eiger BioPharmaceuticals,Prevention,Phase 2,164,2021-12-01,United States,Recruiting
+NCT04530539,Lancaster General Hospital,Not Applicable,Supportive Care,Unknown,150,2021-12-01,United States,Unknown
+NCT04540939,University of Michigan,National Center for Complementary and Integrative Health (NCCIH),Treatment,Unknown,60,2021-12-01,United States,Unknown
+NCT04457765,Boston Medical Center,Not Applicable,Basic Science,Early Phase 1,10,2021-12-01,United States,Unknown
+NCT04356690,Boston Medical Center,Not Applicable,Supportive Care,Phase 2,64,2021-12-01,United States,Recruiting
+NCT04501796,NeoImmuneTech,Not Applicable,Treatment,Phase 1,30,2021-12-01,United States,Recruiting
+NCT04505774,Matthew Neal MD,"National Heart, Lung, and Blood Institute (NHLBI)",Treatment,Phase 4,2000,2021-12-01,United States,Recruiting
+NCT04361253,Brigham and Women's Hospital,Not Applicable,Treatment,Phase 3,220,2021-12-01,United States,Recruiting
+NCT04389450,Pluristem Ltd.,Not Applicable,Treatment,Phase 2,140,2021-12-01,United States,Not yet recruiting
+NCT04361123,"Michael Runyon, MD",Not Applicable,Generic,Unknown,450000,2021-12-01,United States,Unknown
+NCT04531618,Columbia University,Not Applicable,Prevention,Unknown,280,2021-12-01,United States,Recruiting
+NCT04459702,ProgenaBiome,Big Corona Ltd.,Treatment,Phase 2,200,2021-12-01,United States,Unknown
+NCT04418518,Weill Medical College of Cornell University,Hamilton Health Sciences Corporation,Treatment,Phase 3,1200,2021-12-01,United States,Recruiting
+NCT04372186,"Genentech, Inc.",Not Applicable,Treatment,Phase 3,379,2021-12-01,United States,Unknown
+NCT04423614,University of Florida,Not Applicable,Prevention,Unknown,40,2021-12-01,United States,Unknown
+NCT04395911,SeaStar Medical,Not Applicable,Treatment,Unknown,35,2021-12-01,United States,Recruiting
+NCT03013998,"Beat AML, LLC",Not Applicable,Treatment,Phase 1,2000,2021-12-01,United States,Completed
+NCT04358029,Vivek Reddy,Not Applicable,Generic,Unknown,10000,2021-12-01,United States,Recruiting
+NCT04329923,"Ravi Amaravadi, MD",Not Applicable,Treatment,Phase 2,400,2021-12-01,United States,Recruiting
+NCT04466098,"Masonic Cancer Center, University of Minnesota",Not Applicable,Treatment,Phase 2,30,2021-12-01,United States,Recruiting
+NCT04378777,National Institute of Allergy and Infectious Diseases (NIAID),Benaroya Research Institute,Generic,Unknown,2000,2021-12-01,United States,Unknown
+NCT04344444,LCMC Health,Not Applicable,Treatment,Phase 3,600,2021-12-10,United States,Unknown
+NCT04341506,Northwestern Medicine,Not Applicable,Generic,Unknown,100,2021-12-15,United States,Recruiting
+NCT03808922,"Ansun Biopharma, Inc.",Not Applicable,Treatment,Phase 3,250,2021-12-28,United States,Recruiting
+NCT04570384,"Asklepion Pharmaceuticals, LLC",Not Applicable,Treatment,Phase 2,60,2021-12-28,United States,Unknown
+NCT04360538,University of Chicago,Not Applicable,Generic,Unknown,500,2021-12-30,United States,Recruiting
+NCT04341935,University of Miami,Not Applicable,Treatment,Phase 4,20,2021-12-30,United States,Unknown
+NCT04487691,"Regenexx, LLC",Not Applicable,Treatment,Unknown,40,2021-12-30,United States,Unknown
+NCT04420273,Northwestern University,Not Applicable,Prevention,Unknown,1000,2021-12-30,United States,Unknown
+NCT04340050,University of Chicago,Not Applicable,Treatment,Early Phase 1,10,2021-12-31,United States,Unknown
+NCT04551378,M.D. Anderson Cancer Center,National Cancer Institute (NCI),Generic,Unknown,600,2021-12-31,United States,Recruiting
+NCT04517123,Johns Hopkins University,Duke University,Treatment,Unknown,100,2021-12-31,United States,Recruiting
+NCT04364763,"Renibus Therapeutics, Inc.",Not Applicable,Treatment,Phase 2,252,2021-12-31,United States,Recruiting
+NCT04568148,University of Kansas Medical Center,Not Applicable,Generic,Unknown,50,2021-12-31,United States,Recruiting
+NCT04482673,Medical University of South Carolina,Grassroots Health Nutrition Institute,Prevention,Phase 4,140,2021-12-31,United States,Recruiting
+NCT04329832,"Intermountain Health Care, Inc.",University of Utah,Treatment,Phase 2,85,2021-12-31,United States,Unknown
+NCT04345692,Queen's Medical Centre,Not Applicable,Treatment,Phase 3,350,2021-12-31,United States,Recruiting
+NCT04341012,Mayo Clinic,Not Applicable,Generic,Unknown,120,2021-12-31,United States,Recruiting
+NCT04334382,"Intermountain Health Care, Inc.",University of Utah,Treatment,Phase 3,1550,2021-12-31,United States,Recruiting
+NCT04441047,"Immunovative Therapies, Ltd.","Mirror Biologics, Inc.",Prevention,Phase 1,40,2021-12-31,United States,Unknown
+NCT04537650,"University Health Network, Toronto",National Institute on Deafness and Other Communication Disorders (NIDCD),Generic,Unknown,75,2021-12-31,United States,Unknown
+NCT04506528,"University of Wisconsin, Madison",National Cancer Institute (NCI),Generic,Unknown,170000,2021-12-31,United States,Recruiting
+NCT04530474,Temple University,Not Applicable,Treatment,Phase 3,200,2021-12-31,United States,Unknown
+NCT04326036,"Black Tie Medical, Inc.","Robert W. Alexander, MD",Treatment,Early Phase 1,10,2021-12-31,United States,Recruiting
+NCT04513158,"Joseph M. Flynn, D.O., MPH",Not Applicable,Treatment,Phase 2,100,2021-12-31,United States,Recruiting
+NCT04427566,Ohio State University Comprehensive Cancer Center,Not Applicable,Treatment,Phase 2,24,2021-12-31,United States,Recruiting
+NCT04565080,National Institute of Neurological Disorders and Stroke (NINDS),Not Applicable,Generic,Unknown,150,2021-12-31,United States,Recruiting
+NCT04502472,Inova Health Care Services,Not Applicable,Treatment,Phase 2,200,2021-12-31,United States,Recruiting
+NCT04519502,The George Washington University Biostatistics Center,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),Generic,Unknown,26400,2021-12-31,United States,Recruiting
+NCT04376710,"University of Colorado, Denver",Not Applicable,Generic,Unknown,100,2021-12-31,United States,Unknown
+NCT04320862,Duke University,Not Applicable,Generic,Unknown,200000,2021-12-31,United States,Recruiting
+NCT04412772,Queen's Medical Centre,Not Applicable,Treatment,Phase 3,300,2021-12-31,United States,Recruiting
+NCT04413955,"Children's Hospital Medical Center, Cincinnati",ExThera Medical Corporation,Generic,Unknown,100,2021-12-31,United States,Recruiting
+NCT04352634,University of Chile,Not Applicable,Generic,Unknown,2000,2021-12-31,United States,"Active, not recruiting"
+NCT04473183,University of Minnesota,Not Applicable,Generic,Unknown,3000,2022-01-01,United States,Recruiting
+NCT04363346,"Masonic Cancer Center, University of Minnesota",Not Applicable,Treatment,Phase 1,12,2022-01-01,United States,Recruiting
+NCT04515771,VA Office of Research and Development,Not Applicable,Health Services Research,Unknown,50,2022-01-03,United States,Recruiting
+NCT04582266,International Maternal Pediatric Adolescent AIDS Clinical Trials Group,Not Applicable,Generic,Unknown,40,2022-01-15,United States,Unknown
+NCT04386291,"Research Foundation for Mental Hygiene, Inc.",Not Applicable,Treatment,Unknown,360,2022-01-30,United States,Recruiting
+NCT03823469,Spaulding Rehabilitation Hospital,Sheba Medical Center,Treatment,Unknown,78,2022-02-01,United States,Completed
+NCT04487886,Emory University,"Verastem, Inc.",Treatment,Phase 2,80,2022-02-01,United States,Unknown
+NCT04382924,Algernon Pharmaceuticals,Novotech (Australia),Treatment,Phase 2,682,2022-02-01,United States,Recruiting
+NCT04430387,"The University of Texas Health Science Center, Houston",Not Applicable,Supportive Care,Unknown,180,2022-02-01,United States,Unknown
+NCT04482699,Rapa Therapeutics LLC,Hackensack Meridian Health,Treatment,Phase 1,88,2022-02-28,United States,Unknown
+NCT04318444,Columbia University,Not Applicable,Prevention,Phase 2,1600,2022-03-01,United States,Recruiting
+NCT04397939,Icahn School of Medicine at Mount Sinai,Not Applicable,Generic,Unknown,5000,2022-03-01,United States,Recruiting
+NCT04335630,Memorial Hermann Health System,Not Applicable,Generic,Unknown,500,2022-03-01,United States,Recruiting
+NCT04321811,xCures,Genetic Alliance,Generic,Unknown,100000,2022-03-20,United States,Recruiting
+NCT04306393,Massachusetts General Hospital,Xijing Hospital,Treatment,Phase 2,200,2022-03-21,United States,Recruiting
+NCT04331509,King's College London,Zoe Global Limited,Generic,Unknown,10000000,2022-03-23,United States,Recruiting
+NCT04372602,Washington University School of Medicine,"Verastem, Inc.",Treatment,Phase 2,28,2022-03-31,United States,Unknown
+NCT04334954,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,15000,2022-03-31,United States,Recruiting
+NCT03683394,Kaiser Permanente,"University of California, San Francisco",Prevention,Unknown,172,2022-03-31,United States,Unknown
+NCT03827057,Uniformed Services University of the Health Sciences,Research and Recognition Project,Treatment,Phase 2,108,2022-03-31,United States,Recruiting
+NCT04338828,Massachusetts General Hospital,"Department of Anesthesia, MGH",Treatment,Phase 2,260,2022-04-01,United States,Recruiting
+NCT04371393,Icahn School of Medicine at Mount Sinai,"Mesoblast, Inc.",Treatment,Phase 3,300,2022-04-01,United States,Recruiting
+NCT04305457,Massachusetts General Hospital,University of Alabama at Birmingham,Treatment,Phase 2,67,2022-04-01,United States,Unknown
+NCT04370834,National Cancer Institute (NCI),Not Applicable,Other,Phase 2,217,2022-04-01,United States,Unknown
+NCT04339790,National Institute of Mental Health (NIMH),Not Applicable,Generic,Unknown,10000,2022-04-01,United States,Recruiting
+NCT04312243,Massachusetts General Hospital,Not Applicable,Prevention,Phase 2,470,2022-04-07,United States,Recruiting
+NCT03728257,University of Pittsburgh,National Institute of Nursing Research (NINR),Treatment,Unknown,112,2022-04-08,United States,Recruiting
+NCT04385901,University of Missouri-Columbia,Not Applicable,Treatment,Unknown,72,2022-04-19,United States,Recruiting
+NCT04498247,Merck Sharp & Dohme Corp.,Not Applicable,Prevention,Phase 1,260,2022-04-26,United States,Recruiting
+NCT04373148,Stanford University,National Institute of Allergy and Infectious Diseases (NIAID),Generic,Unknown,1000,2022-04-30,United States,Recruiting
+NCT04330521,Stanford University,Not Applicable,Generic,Unknown,50,2022-05-01,United States,Recruiting
+NCT04445402,Columbia University,Not Applicable,Generic,Unknown,1500,2022-05-01,United States,Not yet recruiting
+NCT04373044,University of Southern California,National Cancer Institute (NCI),Treatment,Phase 2,144,2022-05-01,United States,Recruiting
+NCT04340479,"University of Colorado, Denver",Not Applicable,Generic,Unknown,20,2022-05-01,United States,Recruiting
+NCT04345601,Baylor College of Medicine,"Center for Cell and Gene Therapy, Baylor College of Medicine",Treatment,Early Phase 1,30,2022-05-01,United States,Unknown
+NCT04391166,Vanderbilt University Medical Center,Not Applicable,Generic,Unknown,150,2022-05-01,United States,Unknown
+NCT04376593,"University of California, Davis",Not Applicable,Diagnostic,Early Phase 1,10,2022-05-01,United States,Unknown
+NCT04386265,"SerenaGroup, Inc.",The Wound Treatment Center,Generic,Unknown,100,2022-05-11,United States,Unknown
+NCT04396600,University of Minnesota,Not Applicable,Generic,Unknown,1200,2022-05-25,United States,Unknown
+NCT04399252,Duke University,Not Applicable,Basic Science,Unknown,1000,2022-05-25,United States,Recruiting
+NCT04334967,Providence Health & Services,Center for Outcomes Research and Education,Treatment,Phase 4,13,2022-05-27,United States,Unknown
+NCT04377672,Johns Hopkins University,Not Applicable,Treatment,Phase 1,30,2022-05-28,United States,Recruiting
+NCT04433949,Emory University,Not Applicable,Treatment,Phase 3,52,2022-05-30,United States,Recruiting
+NCT04402970,University of Missouri-Columbia,Not Applicable,Treatment,Phase 3,20,2022-05-31,United States,Recruiting
+NCT04412486,"Gailen D. Marshall Jr., MD PhD",University of Mississippi Medical Center,Treatment,Early Phase 1,100,2022-05-31,United States,Recruiting
+NCT04403386,National Institute of Environmental Health Sciences (NIEHS),Not Applicable,Generic,Unknown,200,2022-05-31,United States,Recruiting
+NCT04554992,The Methodist Hospital System,Not Applicable,Treatment,Phase 1,350,2022-06-01,United States,Unknown
+NCT04458363,Emory University,Not Applicable,Treatment,Early Phase 1,50,2022-06-01,United States,Recruiting
+NCT04476940,Meharry Medical College,Not Applicable,Prevention,Unknown,200,2022-06-01,United States,Unknown
+NCT04490174,National Institute of Environmental Health Sciences (NIEHS),Not Applicable,Generic,Unknown,2500,2022-06-01,United States,Recruiting
+NCT04347538,Vanderbilt University Medical Center,Not Applicable,Treatment,Unknown,90,2022-06-01,United States,Recruiting
+NCT04320511,William Beaumont Hospitals,Not Applicable,Generic,Unknown,25,2022-06-01,United States,Recruiting
+NCT04382625,Kootenai Health,Washington State University,Treatment,Phase 4,120,2022-06-01,United States,Unknown
+NCT03261050,Oregon Research Institute,National Institute of Mental Health (NIMH),Generic,Unknown,180,2022-06-01,United States,Recruiting
+NCT04368065,Iqvia Pty Ltd,Not Applicable,Generic,Unknown,100000,2022-06-01,United States,Recruiting
+NCT04569344,"University of California, San Francisco",Kaiser Permanente,Generic,Unknown,40000,2022-06-21,United States,Recruiting
+NCT04426318,"University of Wisconsin, Madison",Chan Zuckerberg Initiative,Treatment,Unknown,400,2022-06-30,United States,Recruiting
+NCT04545047,VA Office of Research and Development,Mayo Clinic,Generic,Unknown,4000,2022-06-30,United States,Unknown
+NCT04558125,Cedars-Sinai Medical Center,Not Applicable,Treatment,Phase 4,45,2022-06-30,United States,Unknown
+NCT04539275,VA Office of Research and Development,Not Applicable,Treatment,Phase 3,702,2022-06-30,United States,Unknown
+NCT04371315,St. Jude Children's Research Hospital,Not Applicable,Generic,Unknown,400,2022-06-30,United States,Recruiting
+NCT04401436,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,175,2022-06-30,United States,Recruiting
+NCT04482595,Humanetics Corporation,NYU Langone Health,Treatment,Phase 2,66,2022-07-01,United States,Unknown
+NCT04477902,Altura,Not Applicable,Generic,Unknown,50000,2022-07-01,United States,Recruiting
+NCT03852537,Mayo Clinic,Not Applicable,Treatment,Phase 2,90,2022-07-01,United States,Recruiting
+NCT04431869,"University of Colorado, Denver",Not Applicable,Generic,Unknown,200,2022-07-01,United States,Recruiting
+NCT04481685,University of Kansas Medical Center,Not Applicable,Treatment,Phase 2,36,2022-07-01,United States,Recruiting
+NCT04555122,"University of California, Irvine",City University of Hong Kong,Other,Unknown,52500,2022-07-28,United States,Unknown
+NCT04408040,"Northside Hospital, Inc.",Not Applicable,Treatment,Phase 2,700,2022-07-31,United States,Recruiting
+NCT04472611,Yale University,Not Applicable,Treatment,Phase 3,466,2022-08-01,United States,Unknown
+NCT04367077,"Athersys, Inc",Not Applicable,Treatment,Phase 2,400,2022-08-01,United States,Recruiting
+NCT04343898,Brigham and Women's Hospital,Icahn School of Medicine at Mount Sinai,Generic,Unknown,5253,2022-08-01,United States,Unknown
+NCT04478071,"The University of Texas Health Science Center, Houston",Akebia Therapeutics Inc.,Treatment,Phase 2,300,2022-08-01,United States,Recruiting
+NCT04497779,City of Hope Medical Center,National Cancer Institute (NCI),Generic,Unknown,800,2022-08-21,United States,Recruiting
+NCT04587258,Rhode Island Hospital,Blackstone Valley Community Health Care,Generic,Unknown,100,2022-09-01,United States,Recruiting
+NCT04388605,"University of California, San Francisco",Not Applicable,Generic,Unknown,11000,2022-09-01,United States,Recruiting
+NCT04347226,Matthew Dallos,Bristol-Myers Squibb,Treatment,Phase 2,138,2022-09-01,United States,Recruiting
+NCT04565067,National Institute on Aging (NIA),Not Applicable,Generic,Unknown,120,2022-09-01,United States,Recruiting
+NCT04470544,Alan Bryce,Not Applicable,Treatment,Phase 2,264,2022-09-15,United States,Recruiting
+NCT04532372,City of Hope Medical Center,National Cancer Institute (NCI),Treatment,Phase 1,30,2022-09-18,United States,Unknown
+NCT04565509,Washington University School of Medicine,"University of Missouri, Kansas City",Health Services Research,Unknown,2500,2022-09-21,United States,Unknown
+NCT04524962,Cartesian Therapeutics,Not Applicable,Treatment,Phase 1,30,2022-09-25,United States,Unknown
+NCT04326309,HealthMode Inc.,Not Applicable,Generic,Unknown,1000,2022-09-25,United States,Recruiting
+NCT03594734,Baylor Research Institute,"National Institute on Disability, Independent Living, and Rehabilitation Research",Other,Unknown,57,2022-09-30,United States,Unknown
+NCT04375657,"Intervene Immune, Inc.",Not Applicable,Treatment,Phase 2,85,2022-10-01,United States,Recruiting
+NCT04432792,"University of California, San Francisco",California Latinas for Reproductive Justice,Health Services Research,Unknown,700,2022-10-01,United States,Unknown
+NCT04148430,Memorial Sloan Kettering Cancer Center,Not Applicable,Treatment,Phase 2,90,2022-10-01,United States,Recruiting
+NCT04482712,The University of Texas Health Science Center at San Antonio,Claude D. Pepper Older Americans Independence Center,Treatment,Phase 1,20,2022-10-01,United States,Unknown
+NCT04516746,AstraZeneca,Iqvia Pty Ltd,Treatment,Phase 3,30000,2022-10-05,United States,Unknown
+NCT04354155,Neil Goldenberg,Not Applicable,Prevention,Phase 2,38,2022-10-15,United States,Recruiting
+NCT04470427,"ModernaTX, Inc.",Biomedical Advanced Research and Development Authority,Prevention,Phase 3,30000,2022-10-27,United States,Recruiting
+NCT04488081,QuantumLeap Healthcare Collaborative,"University of California, San Francisco",Treatment,Phase 2,1500,2022-11-01,United States,Recruiting
+NCT04574219,"Children's Hospital Medical Center, Cincinnati",The Hospital for Sick Children,Supportive Care,Unknown,184,2022-12-01,United States,Unknown
+NCT04354701,Vanderbilt-Ingram Cancer Center,Not Applicable,Generic,Unknown,10000,2022-12-01,United States,Recruiting
+NCT04355767,Stanford University,"National Heart, Lung, and Blood Institute (NHLBI)",Treatment,Phase 3,600,2022-12-01,United States,Unknown
+NCT04564287,National Institute of Neurological Disorders and Stroke (NINDS),Not Applicable,Generic,Unknown,100,2022-12-01,United States,Unknown
+NCT04579588,Stanford University,National Institute of Allergy and Infectious Diseases (NIAID),Generic,Unknown,80,2022-12-01,United States,Unknown
+NCT03452774,"Massive Bio, Inc.",Not Applicable,Generic,Unknown,1500,2022-12-01,United States,Recruiting
+NCT04368728,BioNTech SE,Pfizer,Prevention,Phase 2,43998,2022-12-11,United States,Recruiting
+NCT04379089,University of Pittsburgh,University of Utah,Generic,Unknown,500,2022-12-31,United States,Recruiting
+NCT04439006,Jennifer Woyach,National Cancer Institute (NCI),Treatment,Phase 2,72,2022-12-31,United States,Recruiting
+NCT04542200,Northwell Health,Not Applicable,Generic,Unknown,70812,2022-12-31,United States,Unknown
+NCT04540185,"NeuroActiva, Inc.","Biomed Industries, Inc.",Prevention,Phase 3,3600,2022-12-31,United States,Unknown
+NCT04393558,Shirley Ryan AbilityLab,Not Applicable,Generic,Unknown,100,2022-12-31,United States,Recruiting
+NCT04466683,Ohio State University Comprehensive Cancer Center,Varian Medical Systems,Treatment,Phase 2,100,2022-12-31,United States,Not yet recruiting
+NCT04323800,Johns Hopkins University,Not Applicable,Treatment,Phase 2,500,2023-01-01,United States,Recruiting
+NCT04373460,Johns Hopkins University,State of Maryland,Treatment,Phase 2,1344,2023-01-31,United States,Recruiting
+NCT04505098,Kaiser Permanente,Amarin Corporation,Prevention,Phase 4,16500,2023-02-28,United States,Recruiting
+NCT04505722,Janssen Vaccines & Prevention B.V.,Not Applicable,Prevention,Phase 3,60000,2023-03-10,United States,Not yet recruiting
+NCT04476589,Massachusetts General Hospital,Not Applicable,Generic,Unknown,100,2023-03-30,United States,Recruiting
+NCT04491227,"University of California, San Diego",Not Applicable,Generic,Unknown,2000,2023-03-31,United States,Unknown
+NCT04342169,University of Utah,Not Applicable,Treatment,Phase 2,400,2023-04-01,United States,Recruiting
+NCT04359901,Westyn Branch-Elliman,Not Applicable,Treatment,Phase 2,120,2023-04-01,United States,Recruiting
+NCT04055948,Case Comprehensive Cancer Center,Not Applicable,Supportive Care,Unknown,180,2023-04-30,United States,Recruiting
+NCT04394884,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,160,2023-04-30,United States,Recruiting
+NCT04364737,NYU Langone Health,National Center for Advancing Translational Science (NCATS),Treatment,Phase 2,300,2023-04-30,United States,Recruiting
+NCT04354831,Medical College of Wisconsin,Froedtert Hospital,Treatment,Phase 2,131,2023-05-01,United States,Recruiting
+NCT04587323,University of Alabama at Birmingham,Not Applicable,Generic,Unknown,100,2023-05-20,United States,Recruiting
+NCT04407546,Jonsson Comprehensive Cancer Center,Not Applicable,Generic,Unknown,300,2023-05-28,United States,Recruiting
+NCT04393155,University of Vermont,Not Applicable,Generic,Unknown,225,2023-05-31,United States,Not yet recruiting
+NCT04387656,National Cancer Institute (NCI),Not Applicable,Generic,Unknown,2000,2023-05-31,United States,Recruiting
+NCT04394416,"University of Maryland, Baltimore",Not Applicable,Treatment,Phase 3,204,2023-06-01,United States,Recruiting
+NCT03710746,Oregon Research Institute,Drexel University,Prevention,Unknown,450,2023-07-31,United States,Recruiting
+NCT04527315,NYU Langone Health,Not Applicable,Generic,Unknown,350,2023-08-01,United States,Recruiting
+NCT03500328,Johns Hopkins University,Patient-Centered Outcomes Research Institute,Treatment,Unknown,900,2023-08-01,United States,Recruiting
+NCT04383444,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,1050,2023-08-01,United States,Recruiting
+NCT04401579,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Treatment,Phase 3,1034,2023-08-01,United States,Unknown
+NCT04584684,"University of North Carolina, Chapel Hill",Not Applicable,Treatment,Phase 2,480,2023-09-01,United States,Unknown
+NCT04492475,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Treatment,Phase 3,1038,2023-11-01,United States,Recruiting
+NCT02875301,University of Pittsburgh,National Institutes of Health (NIH),Basic Science,Phase 3,639,2023-11-01,United States,Not yet recruiting
+NCT04436276,Janssen Vaccines & Prevention B.V.,Not Applicable,Other,Phase 1,1045,2023-11-20,United States,Not yet recruiting
+NCT02735707,MJM Bonten,Australian and New Zealand Intensive Care Research Centre,Treatment,Phase 4,7100,2023-12-01,United States,Recruiting
+NCT04537299,Mayo Clinic,National Institute on Aging (NIA),Treatment,Phase 2,150,2023-12-01,United States,Unknown
+NCT04472793,"Children's Hospital Medical Center, Cincinnati",Not Applicable,Generic,Unknown,200,2023-12-01,United States,Recruiting
+NCT04422275,Washington University School of Medicine,Not Applicable,Treatment,Phase 2,200,2023-12-31,United States,Unknown
+NCT03367845,University of Notre Dame,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),Other,Unknown,1200,2023-12-31,United States,Recruiting
+NCT04573634,Jill M Kolesar,Not Applicable,Generic,Unknown,960,2023-12-31,United States,Recruiting
+NCT04566965,"Children's Hospital Medical Center, Cincinnati",Not Applicable,Generic,Unknown,230,2023-12-31,United States,Recruiting
+NCT04323839,"University of California, San Francisco","University of California, Los Angeles",Generic,Unknown,2000,2024-03-31,United States,Recruiting
+NCT04278404,Duke University,"The Emmes Company, LLC",Generic,Unknown,5000,2024-04-24,United States,Enrolling by invitation
+NCT04559009,Atrium Health,Not Applicable,Generic,Unknown,100,2024-04-30,United States,Unknown
+NCT04366986,Pregistry,Harvard School of Public Health,Generic,Unknown,25000,2024-04-30,United States,Recruiting
+NCT04401449,National Institutes of Health Clinical Center (CC),Not Applicable,Generic,Unknown,180,2024-05-01,United States,Recruiting
+NCT03398135,AbbVie,Not Applicable,Treatment,Phase 3,760,2024-05-22,United States,Unknown
+NCT04173663,Vanderbilt University Medical Center,University of Illinois at Urbana-Champaign,Treatment,Unknown,180,2024-05-30,United States,Recruiting
+NCT04545424,"University of Maryland, Baltimore",US Department of Veterans Affairs Cooperative Studies Program,Treatment,Phase 2,340,2024-05-31,United States,Unknown
+NCT04490486,Joshua M Hare,Not Applicable,Treatment,Phase 1,21,2024-06-01,United States,Unknown
+NCT04545593,Massachusetts General Hospital,Not Applicable,Treatment,Unknown,450,2024-09-30,United States,Unknown
+NCT03474965,Novartis Pharmaceuticals,Not Applicable,Treatment,Phase 2,100,2024-11-20,United States,Recruiting
+NCT04362865,National Cancer Institute (NCI),Not Applicable,Generic,Unknown,150,2024-12-01,United States,Recruiting
+NCT03922334,Northwestern University,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),Supportive Care,Unknown,400,2024-12-01,United States,Recruiting
+NCT04462848,"University of California, Los Angeles",Not Applicable,Treatment,Phase 1,30,2024-12-01,United States,Unknown
+NCT04362150,"University of California, San Francisco",Not Applicable,Generic,Unknown,800,2024-12-21,United States,Recruiting
+NCT04417673,National Human Genome Research Institute (NHGRI),Not Applicable,Generic,Unknown,1000,2024-12-31,United States,Unknown
+NCT04573062,National Institute of Neurological Disorders and Stroke (NINDS),Not Applicable,Generic,Unknown,1000,2024-12-31,United States,Recruiting
+NCT04391816,National Institute on Alcohol Abuse and Alcoholism (NIAAA),Not Applicable,Generic,Unknown,700,2024-12-31,United States,Recruiting
+NCT00571389,"BioCytics, Inc.",Not Applicable,Generic,Unknown,1000,2025-02-01,United States,Recruiting
+NCT04362995,St. Jude Children's Research Hospital,Not Applicable,Generic,Unknown,1517,2025-03-20,United States,Recruiting
+NCT04458948,University of New Mexico,Not Applicable,Treatment,Phase 2,10000,2025-03-24,United States,Unknown
+NCT04344977,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,1500,2025-04-01,United States,Recruiting
+NCT04380870,Center for Integrated Care,University of Utah,Generic,Unknown,500,2025-04-11,United States,Recruiting
+NCT04435808,University of New Mexico,Not Applicable,Prevention,Phase 1,350,2025-04-14,United States,Recruiting
+NCT04434131,University of New Mexico,Not Applicable,Prevention,Phase 2,30,2025-04-28,United States,Recruiting
+NCT04055376,Massachusetts Institute of Technology,Not Applicable,Treatment,Unknown,15,2025-04-30,United States,Unknown
+NCT04368234,Duke University,Not Applicable,Generic,Unknown,100000,2025-04-30,United States,Recruiting
+NCT04419870,National Human Genome Research Institute (NHGRI),Not Applicable,Generic,Unknown,200,2025-05-01,United States,Recruiting
+NCT04416919,University of Oklahoma,US Department of Veterans Affairs,Prevention,Unknown,20,2025-05-01,United States,Recruiting
+NCT04406064,"Children's Hospital Medical Center, Cincinnati",Hoxworth Blood Center,Treatment,Phase 2,100,2025-06-01,United States,Unknown
+NCT04371432,National Human Genome Research Institute (NHGRI),Not Applicable,Generic,Unknown,2500,2025-06-01,United States,Recruiting
+NCT04582903,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,500,2025-08-31,United States,Recruiting
+NCT04360850,University of Washington,Not Applicable,Generic,Unknown,10000,2025-10-01,United States,Recruiting
+NCT04449042,Boston Children's Hospital,Children's Hospital of Philadelphia,Generic,Unknown,15000,2025-12-01,United States,Recruiting
+NCT03944447,"OMNI Medical Services, LLC",OMNI Medical Services Inc,Treatment,Phase 2,200000,2025-12-31,United States,Recruiting
+NCT04025580,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Basic Science,Phase 2,300,2025-12-31,United States,Recruiting
+NCT03105102,AbbVie,Not Applicable,Treatment,Phase 3,1250,2026-06-09,United States,Unknown
+NCT04477889,Methodist Health System,Not Applicable,Generic,Unknown,500,2026-12-01,United States,Recruiting
+NCT04411147,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,900,2027-12-31,United States,Recruiting
+NCT02656381,National Eye Institute (NEI),Not Applicable,Generic,Unknown,650,2029-12-31,United States,Recruiting
+NCT04360278,National Institutes of Health Clinical Center (CC),Not Applicable,Generic,Unknown,1500,2030-04-14,United States,Recruiting
+NCT04477928,Sanford Health,The Leona M. and Harry B. Helmsley Charitable Trust,Generic,Unknown,3000,2030-12-01,United States,Unknown
+NCT04363268,Medable Inc.,Datavant,Generic,Unknown,1000000,2031-10-01,United States,Recruiting
+NCT04370821,Villanova University,Not Applicable,Generic,Unknown,20000,2040-04-27,United States,Recruiting
+NCT04359602,"University of California, Los Angeles",Not Applicable,Generic,Unknown,10000,2042-04-20,United States,Recruiting
+NCT04342806,Duke University,Patient-Centered Outcomes Research Institute,Generic,Unknown,100000,2099-12-31,United States,Recruiting
+NCT04372368,"University of Colorado, Denver",Not Applicable,Generic,Unknown,,,United States,Unknown
+NCT04420988,"Rutgers, The State University of New Jersey","University Hospital - Newark, NJ",Generic,Unknown,,,United States,Available
+NCT04358211,"Nakhle Saba, MD",Not Applicable,Generic,Unknown,,,United States,Available
+NCT04338360,Mayo Clinic,Not Applicable,Generic,Unknown,,,United States,Unknown
+NCT04472572,Hackensack Meridian Health,Not Applicable,Generic,Unknown,,,United States,Available
+NCT04338347,Capricor Inc.,Not Applicable,Generic,Unknown,,,United States,Available
+NCT04366830,Mesoblast International Sàrl,Not Applicable,Generic,Unknown,,,United States,Unknown
+NCT04445207,Jonathan Gerber,Not Applicable,Generic,Unknown,,,United States,Available
+NCT04374370,AdventHealth,Not Applicable,Generic,Unknown,,,United States,Available
+NCT04355494,Alexion Pharmaceuticals,Not Applicable,Generic,Unknown,,,United States,Available
+NCT04323761,Gilead Sciences,Not Applicable,Generic,Unknown,,,United States,Unknown
+NCT04352985,Spectral Diagnostics (US) Inc.,Not Applicable,Generic,Unknown,,,United States,Available
+NCT04395508,"Genentech, Inc.",Not Applicable,Generic,Unknown,,,United States,Available
+NCT04453839,"NeuroRx, Inc.",Cavendish Impact Foundation,Generic,Unknown,,,United States,Available
+NCT01306084,National Institute of Allergy and Infectious Diseases (NIAID),Not Applicable,Generic,Unknown,1000,,United States,Recruiting
